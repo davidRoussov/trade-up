@@ -1,0 +1,34 @@
+{
+  "name": "trade-up",
+  "version": "1.0.0",
+  "description": "a techlauncher project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/webpack-dev-server --content-base public --inline --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidRoussov/trade-up.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidRoussov/trade-up/issues"
+  },
+  "homepage": "https://github.com/davidRoussov/trade-up#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.2",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "webpack": "^3.4.1"
+  }
+}
