@@ -7,6 +7,6 @@
 
 # run minified version
 On Windows, run the command:
-set NODE_ENV=production
+```set NODE_ENV=production```
 
 before running ```npm run dev```
