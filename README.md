@@ -2,7 +2,7 @@
 
 ## how to build and run from source
 1. clone the repository
-2. make sure you have node installed
+2. make sure you have Node.js installed
 3. run ```npm install```
 4. run ```npm run dev```
 5. navigate to http://localhost:8080/
