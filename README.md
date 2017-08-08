@@ -2,10 +2,11 @@
 
 ## how to build and run from source
 1. clone the repository
-2. make sure you have Node.js installed
-3. run ```npm install```
-4. run ```npm run dev```
-5. navigate to http://localhost:8080/
+2. make sure you have Node.js installed (https://nodejs.org/en/download/)
+3. open the CMD and navigate to the cloned repository 
+4. run ```npm install```
+5. run ```npm run dev```
+6. navigate to http://localhost:8080/
 
 ## how to build for production
 ### Windows
