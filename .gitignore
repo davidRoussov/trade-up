@@ -9,3 +9,5 @@ build/
 .project
 .settings
 .classpath
+client/node_modules/
+client/.vscode/
