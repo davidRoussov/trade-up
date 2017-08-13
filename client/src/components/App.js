@@ -20,13 +20,12 @@ class App extends Component {
           <option value="Victoria">Victoria</option>
           <option value="WesternAustrlia ">Western Austrlia</option>
         </select>
-        <div id='form-weekends'>
-        <form action="">
-          <input type="checkbox" name="friday" value="Bike">Friday<br>
-          <input type="checkbox" name="saturday" value="Car">Saturday
-          <input type="checkbox" name="saturday" value="Car">Sunday
+        <form>
+          <label>
+            <input type="checkbox" name="friday" />
+          </label>
+          <input type="submit" value="Submit" />
         </form>
-        </div>
       </div>
     )
   }
