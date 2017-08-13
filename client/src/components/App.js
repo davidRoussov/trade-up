@@ -2,64 +2,71 @@ import React, { Component } from 'react';
 import $ from 'jquery';
 import 'fullcalendar';
 import '../../node_modules/fullcalendar/dist/fullcalendar.css';
+import '../bootstrap.css';
 
 class App extends Component {
   componentDidMount() {
-    $('#calendar').fullCalendar({});
-    
-
-
-
-    var data = {
+    const data = {
       resource_id: '31eec35e-1de6-4f04-9703-9be1d43d405b'
     };
     $.ajax({
       url: 'http://data.gov.au/api/action/datastore_search',
       data: data,
-      success: function(data) {
-        alert('Total results found: ' + data.result.total)
-        console.log(JSON.stringify(data, null, 2));
+      success: data => {
+        this.setState({ holidayData: data });
+        this.displayCalendar();
       },
-      error: function(error) {
-        console.log(JSON.stringify(error));
-      }
+      error: error => console.log(error)
+    });
+  }
+
+  displayCalendar() {
+    $('#calendar').fullCalendar({});
+    $('.fc-next-button').click(() => this.colorHolidays());
+    $('.fc-prev-button').click(() => this.colorHolidays());
+  }
+
+  colorHolidays() {
+    $('td[data-date]').each(function() {
+      $(this).css('background-color', 'transparent');
     });
 
+    const relevantHolidays = this.state.holidayData.result.records.filter(holiday => holiday.ApplicableTo.includes(this.state.currentState)); 
+    $('td[data-date]').each(function() {
+      const tdDate = $(this).attr('data-date');
+      const formatted = tdDate.slice(0, 4) + tdDate.slice(5, 7) + tdDate.slice(8, 10);
+      const isDayHoliday = relevantHolidays.filter(holiday => holiday.Date === formatted).length;
+      if (isDayHoliday) $(this).css('background-color', '#89C4F4');
+    });
+  }
 
-    // fetch('http://data.gov.au/api/action/datastore_search', {
-    //   mode: 'cors',
-    //   headers:{
-    //     'Access-Control-Allow-Origin':'*'
-    //   },
-    //   data: data
-    // })
-    // .then(response => response.json())
-    // .then(response => console.log(JSON.stringify(response, null, 2)))
-    // .catch(error => console.error(error));
-
-
-
+  chooseState(e) {
+    this.setState({ currentState: $(e.target).val() }, () => this.colorHolidays());
   }
 
   render() {
     return (
       <div style={{padding: '40px'}}>
         <div id='calendar'></div>
-        <select>
-          <option value="NewSouthWales">New South Wales</option>
-          <option value="Queensland">Queensland</option>
-          <option value="SouthAustralia">South Australia</option>
-          <option value="Tasmani">Tasmaniudi</option>
-          <option value="Victoria">Victoria</option>
-          <option value="WesternAustrlia ">Western Austrlia</option>
+        <select onChange={this.chooseState.bind(this)}>
+          <option value="blank">Select a State</option>
+          <option value="NSW">New South Wales</option>
+          <option value="QLD">Queensland</option>
+          <option value="SA">South Australia</option>
+          <option value="TAS">Tasmania</option>
+          <option value="VIC">Victoria</option>
+          <option value="WA ">Western Austrlia</option>
+          <option value="NT ">Northern Territory</option>
+          <option value="ACT">Australian Captial Territory</option>
         </select>
-        <div id='form-weekends'>
-        <form action="">
-          <input type="checkbox" name="friday" value="Bike">Friday<br>
-          <input type="checkbox" name="saturday" value="Car">Saturday
-          <input type="checkbox" name="saturday" value="Car">Sunday
+        <form>
+          <label>
+            <input type="checkbox" name="friday" />Friday
+            <input type="checkbox" name="saturday" />Saturday
+            <input type="checkbox" name="sunday" />Sunday
+          </label>
+          <input type="submit" value="Submit" className="btn btn-primary"/>
         </form>
-        </div>
       </div>
     )
   }
