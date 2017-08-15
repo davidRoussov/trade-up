@@ -5,6 +5,13 @@ import '../../node_modules/fullcalendar/dist/fullcalendar.css';
 import '../bootstrap.css';
 
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      events: []
+    };
+  }
+
   componentDidMount() {
     const data = {
       resource_id: '31eec35e-1de6-4f04-9703-9be1d43d405b'
@@ -21,20 +28,50 @@ class App extends Component {
   }
 
   displayCalendar() {
-    $('#calendar').fullCalendar({
-    });
+    $('#calendar').fullCalendar({});
     $('.fc-next-button').click(() => this.colorHolidays());
     $('.fc-prev-button').click(() => this.colorHolidays());
   }
 
   colorHolidays() {
-    const relevantHolidays = this.state.holidayData.result.records.filter(holiday => holiday.ApplicableTo.includes(this.state.currentState)); 
-    $('td[data-date]').each(function() {
-      const tdDate = $(this).attr('data-date');
-      const formatted = tdDate.slice(0, 4) + tdDate.slice(5, 7) + tdDate.slice(8, 10);
-      const isDayHoliday = relevantHolidays.filter(holiday => holiday.Date === formatted).length;
-      if (isDayHoliday) $(this).addClass('public-holiday');
-      else $(this).removeClass('public-holiday');
+    // clear public holiday events
+    const eventsClearedPublicHolidays = this.state.events.filter(event => event.type !== 'publicHoliday');
+    this.setState({ events: eventsClearedPublicHolidays }, () => {
+      
+      // calculate public holidays relevant to state, add public-holiday class to particular day in calendar
+      // and add a public holiday event to this.state.events
+      const relevantHolidays = this.state.holidayData.result.records.filter(holiday => holiday.ApplicableTo.includes(this.state.currentState)); 
+      const publicHolidayEvents = [];
+      $('td[data-date]').each(function() {
+        const tdDate = $(this).attr('data-date');
+        const formatted = tdDate.slice(0, 4) + tdDate.slice(5, 7) + tdDate.slice(8, 10);
+        const holiday = relevantHolidays.filter(holiday => holiday.Date === formatted);
+        if (holiday.length ) {
+          const holidayName = holiday[0].HolidayName;
+          const holidayAlreadyAdded = publicHolidayEvents.filter(holiday => holiday.title === holidayName);
+          if (!holidayAlreadyAdded.length) {
+            // add public holiday events
+            const holidayDate = holiday[0].Date;
+            const fixedDate = holidayDate.slice(0, 4) + '-' + holidayDate.slice(4, 6) + '-' + holidayDate.slice(6, 8);
+            publicHolidayEvents.push({
+              title: holidayName,
+              start: fixedDate,
+              type: 'publicHoliday'
+            });
+
+            $(this).addClass('public-holiday');
+          }
+        }
+        else $(this).removeClass('public-holiday');
+      });
+
+      // set event state with new array of public holidays
+      this.setState({ events: this.state.events.concat(publicHolidayEvents) }, () => {
+
+        // rerender calendar's public holiday events
+        $('#calendar').fullCalendar('removeEvents');
+        $('#calendar').fullCalendar('addEventSource', this.state.events);
+      });  
     });
   }
 
