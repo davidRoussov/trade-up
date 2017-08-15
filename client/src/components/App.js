@@ -21,22 +21,20 @@ class App extends Component {
   }
 
   displayCalendar() {
-    $('#calendar').fullCalendar({});
+    $('#calendar').fullCalendar({
+    });
     $('.fc-next-button').click(() => this.colorHolidays());
     $('.fc-prev-button').click(() => this.colorHolidays());
   }
 
   colorHolidays() {
-    $('td[data-date]').each(function() {
-      $(this).css('background-color', 'transparent');
-    });
-
     const relevantHolidays = this.state.holidayData.result.records.filter(holiday => holiday.ApplicableTo.includes(this.state.currentState)); 
     $('td[data-date]').each(function() {
       const tdDate = $(this).attr('data-date');
       const formatted = tdDate.slice(0, 4) + tdDate.slice(5, 7) + tdDate.slice(8, 10);
       const isDayHoliday = relevantHolidays.filter(holiday => holiday.Date === formatted).length;
-      if (isDayHoliday) $(this).css('background-color', '#89C4F4');
+      if (isDayHoliday) $(this).addClass('public-holiday');
+      else $(this).removeClass('public-holiday');
     });
   }
 
@@ -45,28 +43,33 @@ class App extends Component {
   }
 
   render() {
+    const style = {
+      container: {
+        padding: '40px',
+        display: 'flex'
+      },
+      options: {
+        paddingRight: '40px'
+      }
+    };
+
     return (
-      <div style={{padding: '40px'}}>
+      <div style={style.container}>
+        <div id='options' style={style.options}>
+          <label>Choose a state or territory</label>
+          <select onChange={this.chooseState.bind(this)}>
+            <option value="blank">Select a state or territory</option>
+            <option value="NSW">New South Wales</option>
+            <option value="QLD">Queensland</option>
+            <option value="SA">South Australia</option>
+            <option value="TAS">Tasmania</option>
+            <option value="VIC">Victoria</option>
+            <option value="WA ">Western Australia</option>
+            <option value="NT ">Northern Territory</option>
+            <option value="ACT">Australian Captial Territory</option>
+          </select>
+        </div>
         <div id='calendar'></div>
-        <select onChange={this.chooseState.bind(this)}>
-          <option value="blank">Select a State</option>
-          <option value="NSW">New South Wales</option>
-          <option value="QLD">Queensland</option>
-          <option value="SA">South Australia</option>
-          <option value="TAS">Tasmania</option>
-          <option value="VIC">Victoria</option>
-          <option value="WA ">Western Austrlia</option>
-          <option value="NT ">Northern Territory</option>
-          <option value="ACT">Australian Captial Territory</option>
-        </select>
-        <form>
-          <label>
-            <input type="checkbox" name="friday" />Friday
-            <input type="checkbox" name="saturday" />Saturday
-            <input type="checkbox" name="sunday" />Sunday
-          </label>
-          <input type="submit" value="Submit" className="btn btn-primary"/>
-        </form>
       </div>
     )
   }
