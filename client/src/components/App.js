@@ -3,6 +3,10 @@ import $ from 'jquery';
 import 'fullcalendar';
 import '../../node_modules/fullcalendar/dist/fullcalendar.css';
 import '../bootstrap.css';
+import '../jquery.qtip.js';
+import '../jquery.qtip.css';
+
+import DayBubble from './DayBubble';
 
 class App extends Component {
   constructor() {
@@ -28,7 +32,24 @@ class App extends Component {
   }
 
   displayCalendar() {
-    $('#calendar').fullCalendar({});
+    $('#calendar').fullCalendar({
+      dayClick: (date, event, view) => {
+        const day = $(event.target);
+        day.qtip({
+          content: {
+              title: 'hello there!',
+              text: '<h1>ayyaya</h1><br><button>yes</button>'
+          },
+          show: 'click',
+          hide: 'unfocus',
+          events: {
+            hidden: (event, api) => day.removeClass('focus-day')
+          }
+        });
+        
+        day.addClass('focus-day');
+      }
+    });
     $('.fc-next-button').click(() => this.colorHolidays());
     $('.fc-prev-button').click(() => this.colorHolidays());
   }
@@ -59,7 +80,7 @@ class App extends Component {
               type: 'publicHoliday'
             });
 
-            $(this).addClass('public-holiday');
+            // $(this).addClass('public-holiday');
           }
         }
         else $(this).removeClass('public-holiday');
@@ -103,7 +124,7 @@ class App extends Component {
             <option value="VIC">Victoria</option>
             <option value="WA ">Western Australia</option>
             <option value="NT ">Northern Territory</option>
-            <option value="ACT">Australian Captial Territory</option>
+            <option value="ACT">Australian Capital Territory</option>
           </select>
         </div>
         <div id='calendar'></div>
