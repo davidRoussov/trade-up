@@ -4,11 +4,24 @@ import 'fullcalendar';
 import '../../node_modules/fullcalendar/dist/fullcalendar.css';
 
 class App extends Component {
+
+  // colorCalendarFunction() {
+  //   console.log(this.holidayData);
+  //   // console.log(JSON.stringify(data, null, 2));
+  //   // console.log(Object.keys(data.result));
+  //   this.holidayData.result.records.forEach(field => {
+  //     console.log(field);
+  //     console.log(field.ApplicableTo.includes('SA'));
+  //   });
+  // }
+
+  colorDates(e) {
+    e.preventDefault();
+    console.log('state', $(e.target).val());
+  }
+
   componentDidMount() {
     $('#calendar').fullCalendar({});
-    
-
-
 
     var data = {
       resource_id: '31eec35e-1de6-4f04-9703-9be1d43d405b'
@@ -16,9 +29,16 @@ class App extends Component {
     $.ajax({
       url: 'http://data.gov.au/api/action/datastore_search',
       data: data,
-      success: function(data) {
-        alert('Total results found: ' + data.result.total)
-        console.log(JSON.stringify(data, null, 2));
+      success: (data) => {
+
+        this.holidayData = data;
+        // console.log(JSON.stringify(data, null, 2));
+        // console.log(data.result.records[0]["ApplicableTo"])
+        //
+        // for (var i = 0; i < data.result.records.length; i++){
+        //   console.log(data.result.records[i]["ApplicableTo"])
+        // }
+
       },
       error: function(error) {
         console.log(JSON.stringify(error));
@@ -38,26 +58,32 @@ class App extends Component {
     // .catch(error => console.error(error));
 
 
-
   }
 
   render() {
     return (
       <div style={{padding: '40px'}}>
         <div id='calendar'></div>
-        <select>
-          <option value="NewSouthWales">New South Wales</option>
-          <option value="Queensland">Queensland</option>
-          <option value="SouthAustralia">South Australia</option>
-          <option value="Tasmani">Tasmaniudi</option>
-          <option value="Victoria">Victoria</option>
-          <option value="WesternAustrlia ">Western Austrlia</option>
+        <select onChange={this.colorDates.bind(this.value)}>
+          <option value="blank">Select a State</option>
+          <option value="NSW">New South Wales</option>
+          <option value="QLD">Queensland</option>
+          <option value="SA">South Australia</option>
+          <option value="TAS">Tasmansi</option>
+          <option value="VIC">Victoria</option>
+          <option value="WA ">Western Austrlia</option>
+          <option value="NT ">Northern Territory</option>
+          <option value="ACT">Australian Captial Territory</option>
+
+
         </select>
         <form>
           <label>
-            <input type="checkbox" name="friday" />
+            <input type="checkbox" name="friday" />Friday
+            <input type="checkbox" name="saturday" />Saturday
+            <input type="checkbox" name="sunday" />Sunday
           </label>
-          <input type="submit" value="Submit" />
+          <input type="submit" value="Submit"/>
         </form>
       </div>
     )
