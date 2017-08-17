@@ -11,4 +11,4 @@ build/
 .classpath
 client/node_modules/
 client/.vscode/
-grails-app/assets/javascripts
+grails-app/assets/javascripts/
