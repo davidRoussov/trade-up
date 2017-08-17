@@ -44,20 +44,6 @@ class App extends Component {
         console.log(JSON.stringify(error));
       }
     });
-
-
-    // fetch('http://data.gov.au/api/action/datastore_search', {
-    //   mode: 'cors',
-    //   headers:{
-    //     'Access-Control-Allow-Origin':'*'
-    //   },
-    //   data: data
-    // })
-    // .then(response => response.json())
-    // .then(response => console.log(JSON.stringify(response, null, 2)))
-    // .catch(error => console.error(error));
-
-
   }
 
   render() {
