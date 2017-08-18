@@ -19,9 +19,11 @@
   },
   "homepage": "https://github.com/davidRoussov/trade-up#readme",
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "fullcalendar": "^3.4.0",
     "moment": "^2.18.1",
     "react": "^15.6.1",
+    "react-bootstrap": "^0.31.2",
     "react-dom": "^15.6.1",
     "react-redux": "^5.0.5",
     "redux": "^3.7.2",

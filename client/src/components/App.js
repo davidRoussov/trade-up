@@ -3,10 +3,8 @@ import $ from 'jquery';
 import 'fullcalendar';
 import '../../node_modules/fullcalendar/dist/fullcalendar.css';
 import '../bootstrap.css';
-import '../jquery.qtip.js';
-import '../jquery.qtip.css';
 
-import DayBubble from './DayBubble';
+import EventAdd from './EventAdd';
 
 class App extends Component {
   constructor() {
@@ -35,17 +33,19 @@ class App extends Component {
     $('#calendar').fullCalendar({
       dayClick: (date, event, view) => {
         const day = $(event.target);
-        day.qtip({
-          content: {
-              title: 'hello there!',
-              text: '<h1>ayyaya</h1><br><button>yes</button>'
-          },
-          show: 'click',
-          hide: 'unfocus',
-          events: {
-            hidden: (event, api) => day.removeClass('focus-day')
-          }
-        });
+        // day.qtip({
+        //   content: {
+        //       title: 'hello there!',
+        //       text: '<h1>ayyaya</h1><br><button>yes</button>'
+        //   },
+        //   show: 'click',
+        //   hide: 'unfocus',
+        //   events: {
+        //     hidden: (event, api) => day.removeClass('focus-day')
+        //   }
+        // });
+
+        this.setState({ showEventAdd: true });
         
         day.addClass('focus-day');
       }
@@ -128,6 +128,7 @@ class App extends Component {
           </select>
         </div>
         <div id='calendar'></div>
+        { this.state.showEventAdd ? <EventAdd /> : null }
       </div>
     )
   }
