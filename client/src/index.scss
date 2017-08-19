@@ -1,8 +1,12 @@
-$primary-color: #f8f8f8;
+$background: #f8f8f8;
+$modalDay: rgba(176, 203, 244, 0.57);
 
 html, body {
   width: 100%;
   height: 100%;
-  background-color: $primary-color;
-  // background-color: orange;
+  background-color: $background;
+}
+
+.focus-day {
+  background-color: $modalDay;
 }
