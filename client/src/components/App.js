@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import $ from 'jquery';
 import 'fullcalendar';
 import '../../node_modules/fullcalendar/dist/fullcalendar.css';
-import '../bootstrap.css';
+import { Modal, Button } from 'react-bootstrap';
 
 import EventAdd from './EventAdd';
 
@@ -33,28 +33,16 @@ class App extends Component {
     $('#calendar').fullCalendar({
       dayClick: (date, event, view) => {
         const day = $(event.target);
-        // day.qtip({
-        //   content: {
-        //       title: 'hello there!',
-        //       text: '<h1>ayyaya</h1><br><button>yes</button>'
-        //   },
-        //   show: 'click',
-        //   hide: 'unfocus',
-        //   events: {
-        //     hidden: (event, api) => day.removeClass('focus-day')
-        //   }
-        // });
-
-        this.setState({ showEventAdd: true });
+        this.openModal(date);
         
         day.addClass('focus-day');
       }
     });
-    $('.fc-next-button').click(() => this.colorHolidays());
-    $('.fc-prev-button').click(() => this.colorHolidays());
+    $('.fc-next-button').click(() => this.addPublicHolidaysToCalendar());
+    $('.fc-prev-button').click(() => this.addPublicHolidaysToCalendar());
   }
 
-  colorHolidays() {
+  addPublicHolidaysToCalendar() {
     // clear public holiday events
     const eventsClearedPublicHolidays = this.state.events.filter(event => event.type !== 'publicHoliday');
     this.setState({ events: eventsClearedPublicHolidays }, () => {
@@ -96,9 +84,9 @@ class App extends Component {
     });
   }
 
-  chooseState(e) {
-    this.setState({ currentState: $(e.target).val() }, () => this.colorHolidays());
-  }
+  chooseState = (e) => this.setState({ currentState: $(e.target).val() }, () => this.addPublicHolidaysToCalendar());
+  openModal = (date) => this.setState({ showEventAdd: true, currentDate: date });
+  closeModal = () => this.setState({ showEventAdd: false });
 
   render() {
     const style = {
@@ -128,7 +116,7 @@ class App extends Component {
           </select>
         </div>
         <div id='calendar'></div>
-        { this.state.showEventAdd ? <EventAdd /> : null }
+        <EventAdd show={this.state.showEventAdd} close={this.closeModal} currentDate={this.state.currentDate}/>
       </div>
     )
   }
