@@ -1,6 +1,7 @@
 package au.com
 
 import au.com.*
+import au.com.calendar.*;
 
 class BootStrap {
 
@@ -17,6 +18,12 @@ class BootStrap {
               todo.save(flush: true)
           }
       }
+
+
+      def test = new Events(banana: "hi")
+      test.save(flush: true)
+
+
     }
     def destroy = {
     }
