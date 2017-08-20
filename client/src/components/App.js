@@ -3,8 +3,10 @@ import $ from 'jquery';
 import 'fullcalendar';
 import '../../node_modules/fullcalendar/dist/fullcalendar.css';
 import { Modal, Button } from 'react-bootstrap';
+import { connect } from 'react-redux';
 
 import EventAdd from './EventAdd';
+import { getEventData } from '../actions/actions';
 
 class App extends Component {
   constructor() {
@@ -14,19 +16,24 @@ class App extends Component {
     };
   }
 
+  componentDidUpdate() {
+    this.displayEvents();
+  }
+
+  displayEvents() {
+
+    //TODO: add filtering by state
+    
+    if(this.props.calendar && this.props.calendar.eventData) {
+      // rerender calendar's public holiday events
+      $('#calendar').fullCalendar('removeEvents');
+      $('#calendar').fullCalendar('addEventSource', this.props.calendar.eventData);
+    }
+  }
+
   componentDidMount() {
-    const data = {
-      resource_id: '31eec35e-1de6-4f04-9703-9be1d43d405b'
-    };
-    $.ajax({
-      url: 'http://data.gov.au/api/action/datastore_search',
-      data: data,
-      success: data => {
-        this.setState({ holidayData: data });
-        this.displayCalendar();
-      },
-      error: error => console.log(error)
-    });
+    this.props.getEventData();
+    this.displayCalendar();
   }
 
   displayCalendar() {
@@ -38,50 +45,10 @@ class App extends Component {
         day.addClass('focus-day');
       }
     });
-    $('.fc-next-button').click(() => this.addPublicHolidaysToCalendar());
-    $('.fc-prev-button').click(() => this.addPublicHolidaysToCalendar());
-  }
+    $('.fc-next-button').click(() => this.displayEvents());
+    $('.fc-prev-button').click(() => this.displayEvents());
 
-  addPublicHolidaysToCalendar() {
-    // clear public holiday events
-    const eventsClearedPublicHolidays = this.state.events.filter(event => event.type !== 'publicHoliday');
-    this.setState({ events: eventsClearedPublicHolidays }, () => {
-      
-      // calculate public holidays relevant to state, add public-holiday class to particular day in calendar
-      // and add a public holiday event to this.state.events
-      const relevantHolidays = this.state.holidayData.result.records.filter(holiday => holiday.ApplicableTo.includes(this.state.currentState)); 
-      const publicHolidayEvents = [];
-      $('td[data-date]').each(function() {
-        const tdDate = $(this).attr('data-date');
-        const formatted = tdDate.slice(0, 4) + tdDate.slice(5, 7) + tdDate.slice(8, 10);
-        const holiday = relevantHolidays.filter(holiday => holiday.Date === formatted);
-        if (holiday.length ) {
-          const holidayName = holiday[0].HolidayName;
-          const holidayAlreadyAdded = publicHolidayEvents.filter(holiday => holiday.title === holidayName);
-          if (!holidayAlreadyAdded.length) {
-            // add public holiday events
-            const holidayDate = holiday[0].Date;
-            const fixedDate = holidayDate.slice(0, 4) + '-' + holidayDate.slice(4, 6) + '-' + holidayDate.slice(6, 8);
-            publicHolidayEvents.push({
-              title: holidayName,
-              start: fixedDate,
-              type: 'publicHoliday'
-            });
-
-            // $(this).addClass('public-holiday');
-          }
-        }
-        else $(this).removeClass('public-holiday');
-      });
-
-      // set event state with new array of public holidays
-      this.setState({ events: this.state.events.concat(publicHolidayEvents) }, () => {
-
-        // rerender calendar's public holiday events
-        $('#calendar').fullCalendar('removeEvents');
-        $('#calendar').fullCalendar('addEventSource', this.state.events);
-      });  
-    });
+    this.displayEvents();
   }
 
   chooseState = (e) => this.setState({ currentState: $(e.target).val() }, () => this.addPublicHolidaysToCalendar());
@@ -122,4 +89,12 @@ class App extends Component {
   }
 }
 
-export default App;
+const mapStateToProps = state => {
+  return state;
+};
+
+const mapDispatchToProps = {
+  getEventData
+};
+
+export default connect(mapStateToProps, mapDispatchToProps)(App);

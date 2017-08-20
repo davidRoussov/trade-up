@@ -1,7 +1,9 @@
 const mapTime = (state = {}, action) => {
     switch (action.type) {
-        default:
-          return state;
+      case 'GET_CALENDAR_EVENTS':
+        return { ...state, eventData: action.eventData };
+      default:
+        return state;
     }
 }
 
