@@ -6,8 +6,12 @@ Trade-up is a software company that aims to solve the inefficiency of the labour
 Trade-up would like the techlauncher team to implement a few new features such as figuring out how many people are there on site, which can enhance their existing website system. Thus, the vision of Trade-up is to automate current default values associated with productivity of construction companies with existing and future data to generate such values.
 
 **Project Concept Audit Page:**
+
 https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/edit?usp=sharing
 
+**Project Wiki:**
+
+https://github.com/davidRoussov/trade-up/wiki
 
 ### Team Members
 1. Team Lead: Jie Gao
@@ -18,15 +22,18 @@ https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/
 
 ### CLIENT - Trade-Up
 **Business owner**
-&nbsp;&nbsp;&nbsp;&nbsp; Annalisa O’ Sullivan
 
-&nbsp;&nbsp;&nbsp;&nbsp; Trent O’ Sullivan
+&nbsp;&nbsp;&nbsp;&nbsp;Annalisa O’ Sullivan
+
+&nbsp;&nbsp;&nbsp;&nbsp;Trent O’ Sullivan
 
 **Consultant**
-&nbsp;&nbsp;&nbsp;&nbsp; Bruce Hyslop
+
+&nbsp;&nbsp;&nbsp;&nbsp;Bruce Hyslop
 
 **External contractors**
-&nbsp;&nbsp;&nbsp;&nbsp; Wollemi Systems including Maria Garcia, Chris Kingdom and Brendan Leeper
+
+&nbsp;&nbsp;&nbsp;&nbsp;Wollemi Systems including Maria Garcia, Chris Kingdom and Brendan Leeper
 
 
 ### Stakeholders’ Expectations
@@ -38,15 +45,25 @@ They want to have a mobile web application, which can integrate their own system
 
 ### HOW TO RUN THE PROJECT
 
-Navigate to our project:
+**Navigate to our project:**
+
+https://github.com/davidRoussov/trade-up/tree/master/project
 
 
-### Current Project Progress
-https://github.com/davidRoussov/trade-up/wiki/Project-Progress
-**Current sprint: sprint 1**
+### Project Milestones, Scheduling and Deliverables
 
-**Total sprints in this semester: 5**
+- 3 Epics includes 13 stories within 2 semesters; 
 
-**Period: 07/Aug/17 10:45 AM - 21/Aug/17 10:45 AM**
+- 5 Sprints in total (2 weeks 1 sprint) in this semester; 
 
+- We are required by our client to deliver at least Epic 1 by the end of week 10;
+
+**Current Project Progress:** https://github.com/davidRoussov/trade-up/wiki/Project-Progress
+
+
+### External Reference List
+- ### [JIRA](https://tradeup123.atlassian.net/projects/TR/summary) 
+- ### [Doodle](https://doodle.com/poll/txw9s4fut7ve6bg4)
+- ### [Github](https://github.com/davidRoussov/trade-up)
+- ### [Google drive](https://drive.google.com/drive/folders/0B-KwcSa5tCbxcms0NWh1a3ZHcFE?usp=sharing)
 
