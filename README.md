@@ -8,13 +8,11 @@ Trade-up would like the techlauncher team to implement a few new features such a
 **Project Concept Audit Page:**
 https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/edit?usp=sharing
 
-
 ### Team Members
 1. Team Lead: Jie Gao
 2. Technical Lead: David Roussov
 3. Communication Lead:  Lin Peng (Atlas) & You Hong
 4. Team member: Honggu Lin & Jiangshan Luo (Jason)
-
 
 ### CLIENT - Trade-Up
 **Business owner**
@@ -28,17 +26,11 @@ https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/
 **External contractors**
 &nbsp;&nbsp;&nbsp;&nbsp; Wollemi Systems including Maria Garcia, Chris Kingdom and Brendan Leeper
 
-
 ### Stakeholders’ Expectations
 They want to have a mobile web application, which can integrate their own system later, satisfying three main aims:
 1. Should take into account finish date and productivity result to date
 2. Updated daily based on productivity results and staff availability
 3. Disseminate Roster information to employees and Foreman
-
-
-### HOW TO RUN THE PROJECT
-
-Navigate to our project:
 
 
 ### Current Project Progress
@@ -49,4 +41,6 @@ https://github.com/davidRoussov/trade-up/wiki/Project-Progress
 
 **Period: 07/Aug/17 10:45 AM - 21/Aug/17 10:45 AM**
 
+### Contributing
+* [how to run from source](https://github.com/davidRoussov/trade-up/blob/master/CONTRIBUTING.md)
 
