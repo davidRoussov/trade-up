@@ -1,3 +1,9 @@
+corsInterceptor:
+    allowedHeaders: ['my-authorization-header', 'origin', 'Content-Type', 'accept', 'Access-Control-Allow-Headers', 'Access-Control-Allow-Origin']
+
+grails:
+    cors:
+        enabled: true
 ---
 grails:
     profile: web

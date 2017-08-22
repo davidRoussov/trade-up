@@ -1,6 +1,20 @@
 export function getEventData() {
   console.log('action called');
   return dispatch => {
+
+    fetch('http://localhost:8080/customer/calendar/get', {
+      method: 'GET',
+      mode: 'cors',
+      headers: {
+        'Content-Type' : 'application/json;charset=UTF-8'
+      }
+    })
+    .then(response => response.json())
+    .then(response => {
+      console.log(JSON.stringify(response, null, 2));
+    });
+
+
     // replace following with a fetch (GET)
     dispatch({
       type: 'GET_CALENDAR_EVENTS',

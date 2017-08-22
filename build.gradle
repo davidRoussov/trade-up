@@ -26,6 +26,7 @@ repositories {
 }
 
 dependencies {
+    compile "org.grails.plugins:grails3-cors-interceptor:1.2.1"
     compile "org.springframework.boot:spring-boot-starter-logging"
     compile "org.springframework.boot:spring-boot-autoconfigure"
     compile "org.grails:grails-core"

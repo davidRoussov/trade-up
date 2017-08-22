@@ -1,25 +1,10 @@
 package au.com
 
-import au.com.*
-import au.com.calendar.*;
+import au.com.Event
 
 class BootStrap {
 
     def init = { servletContext ->
-      if(!Todo.list()) {
-          log.info "Creating todos..."
-          def todoList = new TodoList(name: "Bob's List").save()
-
-          [[name: "Task 1", one: "one", two: "two", three: "three", todoList: todoList],
-            [name: "Task 2", one: "one", two: "two", three: "three", todoList: todoList],
-            [name: "Task 3", one: "one", two: "two", three: "three", todoList: todoList]].each { props ->
-              def todo = new Todo()
-              todo.properties = props
-              todo.save(flush: true)
-          }
-      }
-
-      def events = new Events().save()
 
       [[id: "",
         title: "a title",
@@ -27,8 +12,7 @@ class BootStrap {
         end: "2017-12-26",
         category: "Public holiday",
         label: "some holiday",
-        readonly: "true",
-        events: events],[id: "",
+        readonly: "true"],[id: "",
         title: "two title",
         start: "2017-08-30",
         end: "2017-09-04",
@@ -83,20 +67,8 @@ class BootStrap {
         category: "esrgsregr",
         label: "sergreg",
         readonly: "false"]].each { props ->
-          def event = new Event(props)
-          event.save(flush: true)
+          new Event(props).save()
         }
-
-      
-      
-      
-      // println(eventData.getClass())
-      // println(eventData[0].getClass())
-      
-      
-      // def test = new Events(banana: eventData)
-      // test.save(flush: true)
-
 
     }
     def destroy = {
