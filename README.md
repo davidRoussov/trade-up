@@ -45,7 +45,7 @@ They want to have a mobile web application, which can integrate their own system
 - 5 Sprints in total (2 weeks 1 sprint) in this semester; 
 - We are required by our client to deliver at least Epic 1 by the end of week 10;
 
-**Current Project Progress:** https://github.com/davidRoussov/trade-up/wiki/Project-Progress
+Current Project Progress: https://github.com/davidRoussov/trade-up/wiki/Project-Progress
 
 
 ### Contributing
