@@ -49,7 +49,7 @@ Current Project Progress: https://github.com/davidRoussov/trade-up/wiki/Project-
 
 
 ### Contributing
-- **how to run from source:** https://github.com/davidRoussov/trade-up/blob/master/CONTRIBUTING.md
+- **how to run from source:** https://github.com/davidRoussov/trade-up/blob/master/project/CONTRIBUTING.md
 
 
 ### Google Drive
