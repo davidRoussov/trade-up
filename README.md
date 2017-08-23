@@ -53,3 +53,7 @@ https://github.com/davidRoussov/trade-up/wiki/Project-Progress
 6. Notes: https://drive.google.com/drive/folders/0B1P_0vs9L9yKNV9jSkdKX1EzQnM
 7. Database: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvaXh2N3RqbzBNbUk
 8. Algorithm: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvU1M3ZHNubzhZWjA
+
+### JIRA PAGE
+we use JIRA to help us manage the project and assign tasks.
+Our JIRA page is at: https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail
