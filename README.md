@@ -6,7 +6,12 @@ Trade-up is a software company that aims to solve the inefficiency of the labour
 Trade-up would like the techlauncher team to implement a few new features such as figuring out how many people are there on site, which can enhance their existing website system. Thus, the vision of Trade-up is to automate current default values associated with productivity of construction companies with existing and future data to generate such values.
 
 **Project Concept Audit Page:**
+
 https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/edit?usp=sharing
+
+**Project Wiki:**
+
+https://github.com/davidRoussov/trade-up/wiki
 
 ### Team Members
 1. Team Lead: Jie Gao
@@ -14,17 +19,22 @@ https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/
 3. Communication Lead:  Lin Peng (Atlas) & You Hong
 4. Team member: Honggu Lin & Jiangshan Luo (Jason)
 
+
 ### CLIENT - Trade-Up
 **Business owner**
-&nbsp;&nbsp;&nbsp;&nbsp; Annalisa O’ Sullivan
 
-&nbsp;&nbsp;&nbsp;&nbsp; Trent O’ Sullivan
+&nbsp;&nbsp;&nbsp;&nbsp;Annalisa O’ Sullivan
+
+&nbsp;&nbsp;&nbsp;&nbsp;Trent O’ Sullivan
 
 **Consultant**
-&nbsp;&nbsp;&nbsp;&nbsp; Bruce Hyslop
+
+&nbsp;&nbsp;&nbsp;&nbsp;Bruce Hyslop
 
 **External contractors**
-&nbsp;&nbsp;&nbsp;&nbsp; Wollemi Systems including Maria Garcia, Chris Kingdom and Brendan Leeper
+
+&nbsp;&nbsp;&nbsp;&nbsp;Wollemi Systems including Maria Garcia, Chris Kingdom and Brendan Leeper
+
 
 ### Stakeholders’ Expectations
 They want to have a mobile web application, which can integrate their own system later, satisfying three main aims:
@@ -36,24 +46,25 @@ They want to have a mobile web application, which can integrate their own system
 ### Current Project Progress
 https://github.com/davidRoussov/trade-up/wiki/Project-Progress
 **Current sprint: sprint 1**
-
+ 
 **Total sprints in this semester: 5**
-
+  
 **Period: 07/Aug/17 10:45 AM - 21/Aug/17 10:45 AM**
-
+  
 ### Contributing
 * [how to run from source](https://github.com/davidRoussov/trade-up/blob/master/CONTRIBUTING.md)
 
-### Google Drive
-1. Root Folder: https://drive.google.com/drive/folders/0B-KwcSa5tCbxcms0NWh1a3ZHcFE
-2. Wireframes: https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM
-3. Project Management: https://drive.google.com/drive/folders/0B1P_0vs9L9yKekIzSW95c21pcFE
-4. User Story Map: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvQXRsSjZ1WGV3LUk
-5. Customers' Materials: https://drive.google.com/drive/folders/0B-KwcSa5tCbxTzBWUXFXcjVCcEE
-6. Notes: https://drive.google.com/drive/folders/0B1P_0vs9L9yKNV9jSkdKX1EzQnM
-7. Database: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvaXh2N3RqbzBNbUk
-8. Algorithm: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvU1M3ZHNubzhZWjA
 
-### JIRA PAGE
-we use JIRA to help us manage the project and assign tasks.
-Our JIRA page is at: https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail
+### Google Drive
+ 1. Root Folder: https://drive.google.com/drive/folders/0B-KwcSa5tCbxcms0NWh1a3ZHcFE
+ 2. Wireframes: https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM
+ 3. Project Management: https://drive.google.com/drive/folders/0B1P_0vs9L9yKekIzSW95c21pcFE
+ 4. User Story Map: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvQXRsSjZ1WGV3LUk
+ 5. Customers' Materials: https://drive.google.com/drive/folders/0B-KwcSa5tCbxTzBWUXFXcjVCcEE
+ 6. Notes: https://drive.google.com/drive/folders/0B1P_0vs9L9yKNV9jSkdKX1EzQnM
+ 7. Database: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvaXh2N3RqbzBNbUk
+ 8. Algorithm: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvU1M3ZHNubzhZWjA
+ 
+ ### JIRA PAGE
+ we use JIRA to help us manage the project and assign tasks.
+ Our JIRA page is at: https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail
