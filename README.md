@@ -9,9 +9,6 @@ Trade-up would like the techlauncher team to implement a few new features such a
 
 https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/edit?usp=sharing
 
-**Project Wiki:**
-
-https://github.com/davidRoussov/trade-up/wiki
 
 ### Team Members
 1. Team Lead: Jie Gao
@@ -43,16 +40,16 @@ They want to have a mobile web application, which can integrate their own system
 3. Disseminate Roster information to employees and Foreman
 
 
-### Current Project Progress
-https://github.com/davidRoussov/trade-up/wiki/Project-Progress
-**Current sprint: sprint 1**
- 
-**Total sprints in this semester: 5**
-  
-**Period: 07/Aug/17 10:45 AM - 21/Aug/17 10:45 AM**
-  
+### Project Milestones, Scheduling and Deliverables
+- 3 Epics includes 13 stories within 2 semesters; 
+- 5 Sprints in total (2 weeks 1 sprint) in this semester; 
+- We are required by our client to deliver at least Epic 1 by the end of week 10;
+
+**Current Project Progress:** https://github.com/davidRoussov/trade-up/wiki/Project-Progress
+
+
 ### Contributing
-* [how to run from source](https://github.com/davidRoussov/trade-up/blob/master/CONTRIBUTING.md)
+- **how to run from source:** https://github.com/davidRoussov/trade-up/blob/master/CONTRIBUTING.md
 
 
 ### Google Drive
