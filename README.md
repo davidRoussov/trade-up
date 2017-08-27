@@ -18,11 +18,14 @@
 <a href = "#Title7"><b> 7. Appropriate documentation </b></a><br/>
 <a href = "#Title8"><b> 8. Project Outputs </b></a><br/>
 <a href = "#Title9"><b> 9. Meetings during this period </b></a><br/>
-<a href = "#Title10"><b> 10. External Reference List </b></a><br/>
 
 
 ***
 
+**HOW TO RUN THE PROJECT(Navigate to our project)** <br/>
+https://bitbucket.org/123tradeup/tu-techlauncher/src
+
+***
 
 <h3><a name = "Title1"> 1. Value delivered to the client </a></h3> 
 <a href = "#content"><i> Click[Back To Content] </i></a>
@@ -129,9 +132,6 @@ Github Wiki Page: https://github.com/davidRoussov/trade-up/wiki
 <h3><a name = "Title8"> 8. Project Outputs </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-**HOW TO RUN THE PROJECT(Navigate to our project)** <br/>
-https://github.com/davidRoussov/trade-up/tree/master/project
-
 A high level overview about the project <br/>
 https://docs.google.com/spreadsheets/d/1MBL69Njxc0PIVpFxtb0k24sSqK6RbCLsb7hAyTylB0s/edit#gid=0
 
@@ -149,7 +149,7 @@ https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM
 - Gradle cached build dependencies that caused permission errors when committing to Git.
 - Cross Origin Resource Sharing issues because the frontend is based on Webpack Dev Server which is a server separate to the Grails server and runs on a different port.
 
-**Technical breadth of outputs: **
+**Technical breadth of outputs:**
 
 We tried and used different tools in order to optimise our output
 - We used excel to design the algorithms, draw.io to create flow chart and UML
@@ -189,12 +189,3 @@ https://docs.google.com/document/d/1pmKjQVpWhAHcBwulCoEI_FPQ3Mv_ix2p78_obDleh0M/
 
 Weekly Scrum meeting 27/08/2017 <br/>
 https://docs.google.com/document/d/15k6ug9GBh7l2o6xEDWjzlf-MCj_Ivpskr7rjhJbHYpo/edit#
-
-
-<h3><a name = "Title10"> 10. External Reference List </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
-
-- ### [JIRA](https://tradeup123.atlassian.net/projects/TR/summary) 
-- ### [Doodle](https://doodle.com/poll/txw9s4fut7ve6bg4)
-- ### [Github](https://github.com/davidRoussov/trade-up)
-- ### [Google drive](https://drive.google.com/drive/folders/0B-KwcSa5tCbxcms0NWh1a3ZHcFE?usp=sharing)
