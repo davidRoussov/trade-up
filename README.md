@@ -50,9 +50,8 @@ https://github.com/davidRoussov/trade-up/wiki/Project-Progress
 3. Project Management: https://drive.google.com/drive/folders/0B1P_0vs9L9yKekIzSW95c21pcFE
 4. User Story Map: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvQXRsSjZ1WGV3LUk
 5. Customers' Materials: https://drive.google.com/drive/folders/0B-KwcSa5tCbxTzBWUXFXcjVCcEE
-6. Notes: https://drive.google.com/drive/folders/0B1P_0vs9L9yKNV9jSkdKX1EzQnM
-7. Database: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvaXh2N3RqbzBNbUk
-8. Algorithm: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvU1M3ZHNubzhZWjA
+6. Database: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvaXh2N3RqbzBNbUk
+7. Algorithm: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvU1M3ZHNubzhZWjA
 
 ### JIRA PAGE
 we use JIRA to help us manage the project and assign tasks.
