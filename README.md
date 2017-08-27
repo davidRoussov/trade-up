@@ -33,13 +33,13 @@ They want to have a mobile web application, which can integrate their own system
 3. Disseminate Roster information to employees and Foreman
 
 
-### Current Project Progress
-https://github.com/davidRoussov/trade-up/wiki/Project-Progress
-**Current sprint: sprint 1**
+###Project Milestones, Scheduling and Deliverables
 
-**Total sprints in this semester: 5**
+* 3 Epics includes 13 stories within 2 semesters;
+* 5 Sprints in total (2 weeks 1 sprint) in this semester;
+* We are required by our client to deliver at least Epic 1 by the end of week 10;
 
-**Period: 07/Aug/17 10:45 AM - 21/Aug/17 10:45 AM**
+Current Project Progress: https://github.com/davidRoussov/trade-up/wiki/Project-Progress
 
 ### Contributing
 * [how to run from source](https://github.com/davidRoussov/trade-up/blob/master/CONTRIBUTING.md)
