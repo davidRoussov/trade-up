@@ -33,7 +33,7 @@ They want to have a mobile web application, which can integrate their own system
 3. Disseminate Roster information to employees and Foreman
 
 
-###Project Milestones, Scheduling and Deliverables
+### Project Milestones, Scheduling and Deliverables
 
 * 3 Epics includes 13 stories within 2 semesters;
 * 5 Sprints in total (2 weeks 1 sprint) in this semester;
