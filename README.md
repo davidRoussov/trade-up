@@ -6,7 +6,7 @@
 
 # Audit 1 Landing Page
 
-### Content
+## Content
 1. Value delivered to the client
 2. Project Governance
 3. Current Project Progress
@@ -17,21 +17,26 @@
 8. Project Outputs
 9. Meetings during this period
 
-<h3> Value delivered to the client </h3>
-** Sprint 1 User Stories Burndown Chart **
+<h2> Value delivered to the client </h2>
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Sprint%201%20User%20Stories%20Burndown%20Chart.png?raw=true)
+<p align="center" vertical-align="middle"><b> Sprint 1 User Stories Burndown Chart </b></p>
 
 Picture shows that we have 14 stories in peak, and we have finished 10 of them with remaining 4 stories.
-Customers’ Feedback from Sprint 1 Review Meeting
+
+**Customers’ Feedback from Sprint 1 Review Meeting**
+
 Customers were very satisfy with the productivity of our progress in this project because we are a bit ahead of the plan. She wish us to keep it like this and co-orperate to produce more satisfying progress. She really likes the way that we put in extra effort by actually go for them in our individual time to solve individual problems because in the meeting there are too many people and too many questions in limited time. Below is some comments posted by our client on Slack:
-“I will invite you to make some individual time with Bruce, or in smaller groups, if you would like assistance with the specific task you are working on. This will give us more opportunity to speak as an entire group at the actual meeting . I’m conscious of not taking up too much of your time , so im hoping you will see this as a benefit that you can utilize if it suits your needs.”
-“I was so impressed to hear you guys had already implemented a weekly scrum meeting and are utilizing the access to the office.”
 
+> “I will invite you to make some individual time with Bruce, or in smaller groups, if you would like assistance with the specific task you are working on. This will give us more opportunity to speak as an entire group at the actual meeting . I’m conscious of not taking up too much of your time , so im hoping you will see this as a benefit that you can utilize if it suits your needs.”
 
-This picture shows everyone at the scrum review meeting.
+> “I was so impressed to hear you guys had already implemented a weekly scrum meeting and are utilizing the access to the office.” '
 
-The picture shows that we are having pizza with customers. Both Bruce and Annalisa are very satisfied with our team.
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/client%20meeting1.png?raw=true)
+<p align="center" vertical-align="middle"><b> This picture shows everyone at the scrum review meeting.  </b></p>
+
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/client%20meeting2.png?raw=true)
+<p align="center" vertical-align="middle"><b> The picture shows that we are having pizza with customers. Both Bruce and Annalisa are very satisfied with our team.  </b></p>
 
 
 
