@@ -178,6 +178,7 @@ https://docs.google.com/document/d/15k6ug9GBh7l2o6xEDWjzlf-MCj_Ivpskr7rjhJbHYpo/
 
 
 <h3><a name = "Title10" href = "#content"> 10. External Reference List </a></h3>
+
 - ### [JIRA](https://tradeup123.atlassian.net/projects/TR/summary) 
 - ### [Doodle](https://doodle.com/poll/txw9s4fut7ve6bg4)
 - ### [Github](https://github.com/davidRoussov/trade-up)
