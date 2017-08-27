@@ -1,44 +1,56 @@
 <div>
-<img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/logo.png?raw=true" height="100" align="left">
+<img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/logo.png?raw=true" width="250" align="AbsBottom">
 
-<img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/Trade-Up.png?raw=true" height="100" align="right">
+<img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/Trade-Up.png?raw=true" width="620" align="AbsBottom">
 </div>
 
+# Audit 1 Landing Page
 
-### CLIENT - Trade-up
-Trade-up is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
+### Content
+1. Value delivered to the client
+2. Project Governance
+3. Current Project Progress
+4. Effective and appropriate decision making
+5. Organisation of project
+6. Traceability of actions
+7. Appropriate documentation
+8. Project Outputs
+9. Meetings during this period
 
-Trade-up would like the techlauncher team to implement a few new features such as figuring out how many people are there on site, which can enhance their existing website system. Thus, the vision of Trade-up is to automate current default values associated with productivity of construction companies with existing and future data to generate such values.
+<h3> Value delivered to the client </h3>
+Sprint 1 User Stories Burndown Chart
 
-**Project Concept Audit Page:**
-https://docs.google.com/document/d/1mu8zJIkGX378RX0C6-PbX-QkMKCw04a6NJeGHsSYLMY/edit?usp=sharing
-
-
-### Team Members
-1. Team Lead: Jie Gao
-2. Technical Lead: David Roussov
-3. Communication Lead:  Lin Peng (Atlas) & You Hong
-4. Team member: Honggu Lin & Jiangshan Luo (Jason)
-
-
-### CLIENT - Trade-Up
-**Business owner**
-&nbsp;&nbsp;&nbsp;&nbsp; Annalisa O’ Sullivan
-
-&nbsp;&nbsp;&nbsp;&nbsp; Trent O’ Sullivan
-
-**Consultant**
-&nbsp;&nbsp;&nbsp;&nbsp; Bruce Hyslop
-
-**External contractors**
-&nbsp;&nbsp;&nbsp;&nbsp; Wollemi Systems including Maria Garcia, Chris Kingdom and Brendan Leeper
+Picture shows that we have 14 stories in peak, and we have finished 10 of them with remaining 4 stories.
+Customers’ Feedback from Sprint 1 Review Meeting
+Customers were very satisfy with the productivity of our progress in this project because we are a bit ahead of the plan. She wish us to keep it like this and co-orperate to produce more satisfying progress. She really likes the way that we put in extra effort by actually go for them in our individual time to solve individual problems because in the meeting there are too many people and too many questions in limited time. Below is some comments posted by our client on Slack:
+“I will invite you to make some individual time with Bruce, or in smaller groups, if you would like assistance with the specific task you are working on. This will give us more opportunity to speak as an entire group at the actual meeting . I’m conscious of not taking up too much of your time , so im hoping you will see this as a benefit that you can utilize if it suits your needs.”
+“I was so impressed to hear you guys had already implemented a weekly scrum meeting and are utilizing the access to the office.”
 
 
-### Stakeholders’ Expectations
-They want to have a mobile web application, which can integrate their own system later, satisfying three main aims:
-1. Should take into account finish date and productivity result to date
-2. Updated daily based on productivity results and staff availability
-3. Disseminate Roster information to employees and Foreman
+This picture shows everyone at the scrum review meeting.
+
+The picture shows that we are having pizza with customers. Both Bruce and Annalisa are very satisfied with our team.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### HOW TO RUN THE PROJECT
