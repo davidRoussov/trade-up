@@ -18,7 +18,9 @@
 9. Meetings during this period
 
 <h3> Value delivered to the client </h3>
-Sprint 1 User Stories Burndown Chart
+** Sprint 1 User Stories Burndown Chart **
+
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Sprint%201%20User%20Stories%20Burndown%20Chart.png?raw=true)
 
 Picture shows that we have 14 stories in peak, and we have finished 10 of them with remaining 4 stories.
 Customers’ Feedback from Sprint 1 Review Meeting
