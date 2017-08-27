@@ -21,6 +21,9 @@
 <a href = "#Title10"><b> 10. External Reference List </b></a><br/>
 
 
+***
+
+
 <h3><a name = "Title1" href = "#content"> 1. Value delivered to the client </a></h3>
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Sprint%201%20User%20Stories%20Burndown%20Chart.png?raw=true)
