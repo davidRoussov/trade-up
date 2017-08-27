@@ -23,9 +23,9 @@
 
 ***
 
-
-<h3><a name = "Title1"> 1. Value delivered to the client </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
+<div>
+ <div style='flaot:left; width:330px; height:200px;'><h3><a name = "Title1"> 1. Value delivered to the client </a></h3> <div style='flaot:left; width:330px; height:200px;'><a href = "#content"><i> Click[Back To Content] </i></a></div>
+</div>
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Sprint%201%20User%20Stories%20Burndown%20Chart.png?raw=true)
 <p align="center" vertical-align = "middle"><b> Sprint 1 User Stories Burndown Chart </b></p>
