@@ -23,7 +23,7 @@
 ***
 
 **HOW TO RUN THE PROJECT(Navigate to our project)** <br/>
-https://bitbucket.org/123tradeup/tu-techlauncher/src
+https://github.com/davidRoussov/trade-up/tree/master/project
 
 ***
 
