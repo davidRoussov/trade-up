@@ -1,6 +1,8 @@
+import { SERVER_URL } from '../config';
+
 export function getEventData() {
   return dispatch => {
-    fetch('http://localhost:8080/customer/calendar/get', {
+    fetch(SERVER_URL + 'customer/calendar/get', {
       method: 'GET',
       mode: 'cors',
       headers: {
@@ -14,5 +16,24 @@ export function getEventData() {
         eventData
       });
     });
-  }
+  };
+};
+
+export function submitEvent(event) {
+  return dispatch => {
+    fetch(SERVER_URL + 'customer/calendar/save', {
+      method: 'POST',
+      body: JSON.stringify({
+        event
+      }),
+      mode: 'cors',
+      headers: {
+        'Content-Type': 'application/json;charset=UTF-8'
+      }
+    })
+    .then(response => response.json())
+    .then(response => {
+      console.log(JSON.stringify(response, null, 2));
+    });
+  };
 }
