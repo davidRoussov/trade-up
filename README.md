@@ -32,9 +32,7 @@ Customers were very satisfy with the productivity of our progress in this projec
 
 > “I was so impressed to hear you guys had already implemented a weekly scrum meeting and are utilizing the access to the office.” '
 
-<div text-align="Center"><img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/client%20meeting1.png?raw=true" width="250"></div>
-
-<p style="text-align:center"><img src=""></p>
+<p style="text-align:center"><img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/client%20meeting1.png?raw=true"></p>
 
 <p align="center" vertical-align="middle"><b> everyone at the scrum review meeting </b></p>
 
