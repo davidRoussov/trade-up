@@ -1,4 +1,7 @@
-# Audit Landing Page
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Techlauncher.png?raw=true)
+
+<img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/logo.png?raw=true" width="200" height="200" align="left">
+
 
 ### CLIENT - Trade-up
 Trade-up is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
