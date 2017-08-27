@@ -123,21 +123,23 @@ https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/
 <h3><a name = "Title7"> 7. Appropriate documentation </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-Github Wiki Page
-https://github.com/davidRoussov/trade-up/wiki
+Github Wiki Page: https://github.com/davidRoussov/trade-up/wiki
 
 
 <h3><a name = "Title8"> 8. Project Outputs </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-**A high level overview about the project** <br/>
+**HOW TO RUN THE PROJECT(Navigate to our project)** <br/>
+https://github.com/davidRoussov/trade-up/tree/master/project
+
+A high level overview about the project <br/>
 https://docs.google.com/spreadsheets/d/1MBL69Njxc0PIVpFxtb0k24sSqK6RbCLsb7hAyTylB0s/edit#gid=0
 
-**Source Code** <br/>
+Source Code <br/>
 https://github.com/davidRoussov/trade-up  (open temporary repo: obsolete) <br/>
 https://bitbucket.org/123tradeup/tu-techlauncher (closed repo: latest code)
 
-**Prototypes**
+Prototypes <br/>
 https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM
 
 **Technical depth of outputs:**
@@ -148,6 +150,7 @@ https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM
 - Cross Origin Resource Sharing issues because the frontend is based on Webpack Dev Server which is a server separate to the Grails server and runs on a different port.
 
 **Technical breadth of outputs: **
+
 We tried and used different tools in order to optimise our output
 - We used excel to design the algorithms, draw.io to create flow chart and UML
 - assign for a public computer to build up public environment for testing
