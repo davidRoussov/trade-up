@@ -1,6 +1,6 @@
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Techlauncher.png?raw=true)
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/logo.png?raw=true")
 
-<img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/logo.png?raw=true" width="200" height="200" align="left">
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Trade-Up.png?raw=true)
 
 
 ### CLIENT - Trade-up
