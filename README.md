@@ -24,7 +24,8 @@
 ***
 
 
-<div style=float:left><h3> 1. Value delivered to the client </h3></div> <div style=float:left><a name = "Title1" href = "#content">Back To Content </a></div>
+<h3><a name = "Title1"> 1. Value delivered to the client </a></h3>
+<a href = "#content"> Click[Back To Content] </a>
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Sprint%201%20User%20Stories%20Burndown%20Chart.png?raw=true)
 <p align="center" vertical-align = "middle"><b> Sprint 1 User Stories Burndown Chart </b></p>
@@ -48,14 +49,16 @@ Customers were very satisfy with the productivity of our progress in this projec
 Both Bruce and Annalisa are very satisfied with our team. 
 
 
-<h3><a name = "Title2" href = "#content"> 2. Project Governance </a></h3>
+<h3><a name = "Title2"> 2. Project Governance </a></h3>
+<a href = "#content"> Click[Back To Content] </a>
 
 Evidence of decision-making: https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00
 
 Traceability of actions:  [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
 
 
-<h3><a name = "Title3" href = "#content"> 3. Current Project Progress </a></h3>
+<h3><a name = "Title3"> 3. Current Project Progress </a></h3>
+<a href = "#content"> Click[Back To Content] </a>
 
 <table borde r= 3>
 <tr align = "center">
@@ -75,7 +78,8 @@ Traceability of actions:  [See Jira Work log](https://tradeup123.atlassian.net/p
 User Story Map: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvQXRsSjZ1WGV3LUk
 
 
-<h3><a name = "Title4" href = "#content"> 4. Effective and appropriate decision making </a></h3>
+<h3><a name = "Title4"> 4. Effective and appropriate decision making </a></h3>
+<a href = "#content"> Click[Back To Content] </a>
 
 Risk Management <br/>
 https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604
@@ -84,7 +88,8 @@ Decision Making Progress <br/>
 https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit
 
 
-<h3><a name = "Title5" href = "#content"> 5. Organisation of project </a></h3>
+<h3><a name = "Title5"> 5. Organisation of project </a></h3>
+<a href = "#content"> Click[Back To Content] </a>
 
 Team Members
 - Team Lead: Jie Gao
@@ -106,7 +111,8 @@ Detailed Information <br/>
 https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0
 
 
-<h3><a name = "Title6" href = "#content"> 6. Traceability of actions </a></h3>
+<h3><a name = "Title6"> 6. Traceability of actions </a></h3>
+<a href = "#content"> Click[Back To Content] </a>
 
 JIRA <br/>
 https://tradeup123.atlassian.net/secure/Dashboard.jspa
@@ -114,12 +120,15 @@ JIRA Template <br/>
 https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit
 
 
-<h3><a name = "Title7" href = "#content"> 7. Appropriate documentation </a></h3>
+<h3><a name = "Title7"> 7. Appropriate documentation </a></h3>
+<a href = "#content"> Click[Back To Content] </a>
+
 Github Wiki Page
 https://github.com/davidRoussov/trade-up/wiki
 
 
-<h3><a name = "Title8" href = "#content"> 8. Project Outputs </a></h3>
+<h3><a name = "Title8"> 8. Project Outputs </a></h3>
+<a href = "#content"> Click[Back To Content] </a>
 
 **A high level overview about the project** <br/>
 https://docs.google.com/spreadsheets/d/1MBL69Njxc0PIVpFxtb0k24sSqK6RbCLsb7hAyTylB0s/edit#gid=0
@@ -162,7 +171,9 @@ We tried and used different tools in order to optimise our output
 - We always show our progress to our client and discuss with them for improvement
 
 
-<h3><a name = "Title9" href = "#content"> 9. Meetings during this period </a></h3>
+<h3><a name = "Title9"> 9. Meetings during this period </a></h3>
+<a href = "#content"> Click[Back To Content] </a>
+
 Previous Meetings <br/>
 https://drive.google.com/drive/folders/0B-KwcSa5tCbxaDl1WV9vdGRQaHc?usp=sharing
 
@@ -177,7 +188,8 @@ Weekly Scrum meeting 27/08/2017 <br/>
 https://docs.google.com/document/d/15k6ug9GBh7l2o6xEDWjzlf-MCj_Ivpskr7rjhJbHYpo/edit#
 
 
-<h3><a name = "Title10" href = "#content"> 10. External Reference List </a></h3>
+<h3><a name = "Title10"> 10. External Reference List </a></h3>
+<a href = "#content"> Click[Back To Content] </a>
 
 - ### [JIRA](https://tradeup123.atlassian.net/projects/TR/summary) 
 - ### [Doodle](https://doodle.com/poll/txw9s4fut7ve6bg4)
