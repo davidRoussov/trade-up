@@ -100,6 +100,9 @@ Team Members
 - Communication Lead: Lin Peng (Atlas) & You Hong
 - Team member: Honggu Lin & Jiangshan Luo (Jason)
 
+Detailed Information <br/>
+https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0
+
 Development Approach
 - Create prototype, present 
 
@@ -113,9 +116,6 @@ Team Collaboration
 Acting On Feedback:
 - Not respond to shadow team? Now we have Jie in charge of the Slack communication so whenever the shadow team have questions we will make sure that we respond to them quickly.
 - Not working as a team? As specified above, everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
-
-Detailed Information <br/>
-https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0
 
 
 <h3><a name = "Title6"> 6. Traceability of actions </a></h3>
