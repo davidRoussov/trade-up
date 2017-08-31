@@ -50,7 +50,6 @@ Customers were very satisfy with the productivity of our progress in this projec
 
 Both Bruce and Annalisa are very satisfied with our team. 
 
-
 <h3><a name = "Title2"> 2. Feedback From Client</a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
@@ -73,7 +72,9 @@ The team have been very enthusiastic to attend meetings and communicate online. 
 <h3><a name = "Title3"> 3. Project Governance </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
+
 [Evidence of Decision-Making](https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00)
+
 
 Traceability of actions:  
 [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
@@ -104,7 +105,7 @@ Traceability of actions:
 
 
 <h3><a name = "Title5"> 5. Effective and appropriate decision making </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
+<a href = "#content"><i> Click[Back To Content] </i></a></br>
 
 [Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
 
