@@ -77,7 +77,9 @@ Evidence of decision-making: https://drive.google.com/drive/folders/0B1P_0vs9L9y
 
 Traceability of actions:  
 [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
+
 [JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
+
 [JIRA Template](https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit)
 
 <h3><a name = "Title4"> 4. Current Project Progress </a></h3>
