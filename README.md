@@ -15,9 +15,9 @@
 <a href = "#Title4"><b> 4. Current Project Progress </b></a><br/>
 <a href = "#Title5"><b> 5. Effective and appropriate decision making </b></a><br/>
 <a href = "#Title6"><b> 6. Organisation of project </b></a><br/>
-<a href = "#Title8"><b> 7. Appropriate documentation </b></a><br/>
-<a href = "#Title9"><b> 8. Project Outputs </b></a><br/>
-<a href = "#Title10"><b> 9. Meetings during this period </b></a><br/>
+<a href = "#Title7"><b> 7. Appropriate documentation </b></a><br/>
+<a href = "#Title8"><b> 8. Project Outputs </b></a><br/>
+<a href = "#Title9"><b> 9. Meetings during this period </b></a><br/>
 
 ***
 
@@ -138,22 +138,13 @@ Acting On Feedback:
 - Not working as a team? As specified above, everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
 
 
-<h3><a name = "Title7"> 7. Traceability of actions </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
-
-JIRA <br/>
-https://tradeup123.atlassian.net/secure/Dashboard.jspa
-JIRA Template <br/>
-https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit
-
-
-<h3><a name = "Title8"> 8. Appropriate documentation </a></h3>
+<h3><a name = "Title7"> 7. Appropriate documentation </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 Github Wiki Page: https://github.com/davidRoussov/trade-up/wiki
 
 
-<h3><a name = "Title9"> 9. Project Outputs </a></h3>
+<h3><a name = "Title8"> 8. Project Outputs </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 A high level overview about the project <br/>
@@ -204,7 +195,7 @@ We tried and used different tools in order to optimise our output
 - We always show our progress to our client and discuss with them for improvement
 
 
-<h3><a name = "Title10"> 10. Meetings during this period </a></h3>
+<h3><a name = "Title9"> 9. Meetings during this period </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 Previous Meetings <br/>
