@@ -75,8 +75,8 @@ The team have been very enthusiastic to attend meetings and communicate online. 
 
 Evidence of decision-making: https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00
 
-Traceability of actions:  [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
- 
+Traceability of actions:  
+[See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
 [JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
 [JIRA Template](https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit)
 
