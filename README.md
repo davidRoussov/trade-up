@@ -15,11 +15,9 @@
 <a href = "#Title4"><b> 4. Current Project Progress </b></a><br/>
 <a href = "#Title5"><b> 5. Effective and appropriate decision making </b></a><br/>
 <a href = "#Title6"><b> 6. Organisation of project </b></a><br/>
-<a href = "#Title7"><b> 7. Traceability of actions </b></a><br/>
-<a href = "#Title8"><b> 8. Appropriate documentation </b></a><br/>
-<a href = "#Title9"><b> 9. Project Outputs </b></a><br/>
-<a href = "#Title10"><b> 10. Meetings during this period </b></a><br/>
-
+<a href = "#Title8"><b> 7. Appropriate documentation </b></a><br/>
+<a href = "#Title9"><b> 8. Project Outputs </b></a><br/>
+<a href = "#Title10"><b> 9. Meetings during this period </b></a><br/>
 
 ***
 
@@ -61,6 +59,7 @@ Both Bruce and Annalisa are very satisfied with our team.
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project.  
 The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. 
 
+
 **PROJECT OUTPUTS**
  
 An improvement could be better demonstration of achieved outcomes at the conclusion of a sprint. This could be done at the fortnightly meetings. We encourage the group at next meeting to be ready to walk thru their outcomes as you would when delivering work to a client. 
@@ -77,7 +76,9 @@ The team have been very enthusiastic to attend meetings and communicate online. 
 Evidence of decision-making: https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00
 
 Traceability of actions:  [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
-
+ 
+https://tradeup123.atlassian.net/secure/Dashboard.jspa JIRA Template 
+https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit
 
 <h3><a name = "Title4"> 4. Current Project Progress </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
