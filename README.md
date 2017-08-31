@@ -73,7 +73,7 @@ The team have been very enthusiastic to attend meetings and communicate online. 
 <h3><a name = "Title3"> 3. Project Governance </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-Evidence of decision-making: https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00
+[Evidence of Decision-Making](https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00)
 
 Traceability of actions:  
 [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
@@ -100,17 +100,15 @@ Traceability of actions:
 </tr>
 </table>
 
-User Story Map: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvQXRsSjZ1WGV3LUk
+[User Story Map](https://drive.google.com/drive/folders/0Bzc3lP9XuDfvQXRsSjZ1WGV3LUk)
 
 
 <h3><a name = "Title5"> 5. Effective and appropriate decision making </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-Risk Management <br/>
-https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604
+[Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
 
-Decision Making Progress <br/>
-https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit
+[Decision Making Progress](https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit)
 
 
 <h3><a name = "Title6"> 6. Organisation of project </a></h3>
@@ -122,8 +120,7 @@ Team Members
 - Communication Lead: Lin Peng (Atlas) & You Hong
 - Team member: Honggu Lin & Jiangshan Luo (Jason)
 
-Detailed Information <br/>
-https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0
+[Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
 
 Development Approach
 - Create prototype, present 
@@ -143,21 +140,18 @@ Acting On Feedback:
 <h3><a name = "Title7"> 7. Appropriate documentation </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-Github Wiki Page: https://github.com/davidRoussov/trade-up/wiki
+[Github Wiki Page](https://github.com/davidRoussov/trade-up/wiki)
 
 
 <h3><a name = "Title8"> 8. Project Outputs </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-A high level overview about the project <br/>
-https://docs.google.com/spreadsheets/d/1MBL69Njxc0PIVpFxtb0k24sSqK6RbCLsb7hAyTylB0s/edit#gid=0
+[High-Level Overview of Project](https://docs.google.com/spreadsheets/d/1MBL69Njxc0PIVpFxtb0k24sSqK6RbCLsb7hAyTylB0s/edit#gid=0)
 
-Source Code <br/>
-https://github.com/davidRoussov/trade-up  (open temporary repo: obsolete) <br/>
-https://bitbucket.org/123tradeup/tu-techlauncher (closed repo: latest code)
+[Github Source Code](https://github.com/davidRoussov/trade-up)
+[Bitbucket Source Code](https://bitbucket.org/123tradeup/tu-techlauncher)
 
-Prototypes <br/>
-https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM
+[Prototypes](https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM)
 
 **Technical depth of outputs:**
 
