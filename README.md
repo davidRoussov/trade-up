@@ -10,14 +10,15 @@
 
 <h3><a name = "content"> Content </a></h3>
 <a href = "#Title1"><b> 1. Value delivered to the client </b></a><br/>
-<a href = "#Title2"><b> 2. Project Governance </b></a><br/>
-<a href = "#Title3"><b> 3. Current Project Progress </b></a><br/>
-<a href = "#Title4"><b> 4. Effective and appropriate decision making </b></a><br/>
-<a href = "#Title5"><b> 5. Organisation of project </b></a><br/>
-<a href = "#Title6"><b> 6. Traceability of actions </b></a><br/>
-<a href = "#Title7"><b> 7. Appropriate documentation </b></a><br/>
-<a href = "#Title8"><b> 8. Project Outputs </b></a><br/>
-<a href = "#Title9"><b> 9. Meetings during this period </b></a><br/>
+<a href = "#Title2"><b> 2. Feedback From Client </b></a><br/>
+<a href = "#Title3"><b> 3. Project Governance </b></a><br/>
+<a href = "#Title4"><b> 4. Current Project Progress </b></a><br/>
+<a href = "#Title5"><b> 5. Effective and appropriate decision making </b></a><br/>
+<a href = "#Title6"><b> 6. Organisation of project </b></a><br/>
+<a href = "#Title7"><b> 7. Traceability of actions </b></a><br/>
+<a href = "#Title8"><b> 8. Appropriate documentation </b></a><br/>
+<a href = "#Title9"><b> 9. Project Outputs </b></a><br/>
+<a href = "#Title10"><b> 10. Meetings during this period </b></a><br/>
 
 
 ***
@@ -52,7 +53,25 @@ Customers were very satisfy with the productivity of our progress in this projec
 Both Bruce and Annalisa are very satisfied with our team. 
 
 
-<h3><a name = "Title2"> 2. Project Governance </a></h3>
+<h3><a name = "Title2"> 2. Feedback From Client</a></h3>
+<a href = "#content"><i> Click[Back To Content] </i></a>
+
+**PROJECT GOVERNANCE**
+   
+The team have engaged well in the planning and reporting process outlined by us at the beginning of the project.  
+The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. 
+
+**PROJECT OUTPUTS**
+ 
+An improvement could be better demonstration of achieved outcomes at the conclusion of a sprint. This could be done at the fortnightly meetings. We encourage the group at next meeting to be ready to walk thru their outcomes as you would when delivering work to a client. 
+The group has grown over the last few weeks in their understanding of the end result goal. 
+
+**PROJECT APPROACH** 
+
+The team have been very enthusiastic to attend meetings and communicate online. They have shown a great interest in making sure the project they deliver to us is one that will be useful to sell to our customers.
+
+
+<h3><a name = "Title3"> 3. Project Governance </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 Evidence of decision-making: https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00
@@ -60,7 +79,7 @@ Evidence of decision-making: https://drive.google.com/drive/folders/0B1P_0vs9L9y
 Traceability of actions:  [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
 
 
-<h3><a name = "Title3"> 3. Current Project Progress </a></h3>
+<h3><a name = "Title4"> 4. Current Project Progress </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 <table borde r= 3>
@@ -81,7 +100,7 @@ Traceability of actions:  [See Jira Work log](https://tradeup123.atlassian.net/p
 User Story Map: https://drive.google.com/drive/folders/0Bzc3lP9XuDfvQXRsSjZ1WGV3LUk
 
 
-<h3><a name = "Title4"> 4. Effective and appropriate decision making </a></h3>
+<h3><a name = "Title5"> 5. Effective and appropriate decision making </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 Risk Management <br/>
@@ -91,7 +110,7 @@ Decision Making Progress <br/>
 https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit
 
 
-<h3><a name = "Title5"> 5. Organisation of project </a></h3>
+<h3><a name = "Title6"> 6. Organisation of project </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 Team Members
@@ -118,7 +137,7 @@ Acting On Feedback:
 - Not working as a team? As specified above, everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
 
 
-<h3><a name = "Title6"> 6. Traceability of actions </a></h3>
+<h3><a name = "Title7"> 7. Traceability of actions </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 JIRA <br/>
@@ -127,13 +146,13 @@ JIRA Template <br/>
 https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit
 
 
-<h3><a name = "Title7"> 7. Appropriate documentation </a></h3>
+<h3><a name = "Title8"> 8. Appropriate documentation </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 Github Wiki Page: https://github.com/davidRoussov/trade-up/wiki
 
 
-<h3><a name = "Title8"> 8. Project Outputs </a></h3>
+<h3><a name = "Title9"> 9. Project Outputs </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 A high level overview about the project <br/>
@@ -184,7 +203,7 @@ We tried and used different tools in order to optimise our output
 - We always show our progress to our client and discuss with them for improvement
 
 
-<h3><a name = "Title9"> 9. Meetings during this period </a></h3>
+<h3><a name = "Title10"> 10. Meetings during this period </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 Previous Meetings <br/>
