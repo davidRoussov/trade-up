@@ -105,7 +105,7 @@ Traceability of actions:
 
 
 <h3><a name = "Title5"> 5. Effective and appropriate decision making </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a></br>
+<br><a href = "#content"><i> Click[Back To Content] </i></a><br>
 
 [Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
 
