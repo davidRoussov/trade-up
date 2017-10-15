@@ -143,7 +143,9 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 <h3><a name = "Title8"> 8. Project Outputs </a></h3> <a href = "#content"><i> Click[Back To Content] </i></a>
 <hr>
+
 ## Project Poster ##
+
 ![image](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Poster_A2-1.jpg?raw=true)
   <p align="center" vertical-align = "middle">
 
