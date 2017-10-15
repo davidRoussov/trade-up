@@ -26,7 +26,9 @@ https://bitbucket.org/123tradeup/tu-techlauncher
 
 ***
 
-##<a name = "Title1"> 1. Value delivered to the client </a>##
+##
+<h3><a name = "Title1"> 1. Value delivered to the client </a></h3>
+##
 
 1. Subcontractors can track project progress and make adjustments for workers to maximise productivity. 
 
