@@ -87,7 +87,7 @@ This will involve setting up a development environment for each member of the Te
 Furthermore, we will now have to acquaint ourselves with the system architecture of a mature codebase, as well as becoming familiar with Angular and any other development practices that Trade Up uses as part of their developer and operations workflows. It is our intention that much of this will be completed within the current sprint and over the summer break, so that when we begin the next semester, we are in a prime position to be immediately productive.
 
 <h4>System Archictecture of The Protyping System/Environment</h4>
-![image](https://github.com/Jasonluo666/trade-up/blob/master/project/image/sysarch.png?raw=true)
+![image](https://user-images.githubusercontent.com/7090914/31581873-ab8d40d0-b1c0-11e7-85e3-045a21041f2f.png)
 
 <h3><a name = "Title5"> 4. Effective and Appropriate Decision Making </a></h3>
 <hr>
