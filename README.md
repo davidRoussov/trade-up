@@ -18,7 +18,7 @@
 <a href = "#Title7"><b> 7. Appropriate Documentation </b></a><br/>
 <a href = "#Title8"><b> 8. Project Outputs </b></a><br/>
 <a href = "#Title9"><b> 9. Meetings</b></a><br/>
-<a href = "#Title9"><b> 10. Meetings</b></a><br/>
+<a href = "#Title10"><b> 10. Team</b></a><br/>
 
 ***
 
