@@ -48,8 +48,10 @@ Below chart shows 35/41 issues in Sprint 4 which have all been completed - with 
 
 <h3><a name = "Title3"> 3. Project Governance </a></h3>
 <hr>
-The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. This is the link to the flie: 
-[Evidence of Decision-Making](https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00)
+
+###Evidence of Decision Making###
+The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
+This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00)
 
 
 Traceability of actions:  
