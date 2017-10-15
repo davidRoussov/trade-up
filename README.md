@@ -25,7 +25,7 @@
 https://bitbucket.org/123tradeup/tu-techlauncher
 
 ***
-lsdkjfdlsf
+
 <h3><a name = "Title1"> 1. Value delivered to the client </a></h3> 
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
@@ -34,37 +34,22 @@ lsdkjfdlsf
 
 Picture shows that we have 14 stories in peak, and we have finished 10 of them with remaining 4 stories.
 
-**Customers’ Feedback from Sprint 1 Review Meeting**
+**Value Delivered to Client**
 
-Customers were very satisfy with the productivity of our progress in this project because we are a bit ahead of the plan. She wish us to keep it like this and co-orperate to produce more satisfying progress. She really likes the way that we put in extra effort by actually go for them in our individual time to solve individual problems because in the meeting there are too many people and too many questions in limited time. Below is some comments posted by our client on Slack:
 
-> “I will invite you to make some individual time with Bruce, or in smaller groups, if you would like assistance with the specific task you are working on. This will give us more opportunity to speak as an entire group at the actual meeting . I’m conscious of not taking up too much of your time , so im hoping you will see this as a benefit that you can utilize if it suits your needs.”
 
-> “I was so impressed to hear you guys had already implemented a weekly scrum meeting and are utilizing the access to the office.” '
-
-![](http://www.trade-up.com.au/wp-content/uploads/2017/08/Resized_20170816_211412.jpeg)
-<p align="center" vertical-align="middle"><b> Week 3 Client Meeting </b></p>
-
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
-<p align="center" vertical-align="middle"><b> Week 10 Project Showcase </b></p>
-
-Both Bruce and Annalisa are very satisfied with our team. 
-
-<h3><a name = "Title2"> 2. Feedback From Client</a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
-
-**PROJECT GOVERNANCE**
+**Effective and Appropriate Decision Making**
    
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project.  
 The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. 
 
 
-**PROJECT OUTPUTS**
+**Appropriate Documentation**
  
 An improvement could be better demonstration of achieved outcomes at the conclusion of a sprint. This could be done at the fortnightly meetings. We encourage the group at next meeting to be ready to walk thru their outcomes as you would when delivering work to a client. 
 The group has grown over the last few weeks in their understanding of the end result goal. 
 
-**PROJECT APPROACH** 
+**Technical Artifacts** 
 
 The team have been very enthusiastic to attend meetings and communicate online. They have shown a great interest in making sure the project they deliver to us is one that will be useful to sell to our customers.
 
