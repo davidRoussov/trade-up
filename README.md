@@ -77,9 +77,18 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>1st October - 29th October</b></td>
+<td><b>15th October - 29th October</b></td>
 </tr>
 </table>
+
+<h4>Sprint 5 - Preparing for the next stage of the project</h4>
+With the completion of the company and project calendars within our own prototyping environment, we have now been in the process of integrating these features into their existing codebase, to be deployed into production. At the same time, we are now ready to proceed with the next Agile "Epic" - the allocation of specific employees to projects based on the project calendar we have made. This will be the focus of our next sprint in the following semester, however the development workflow will be different going forward in that we will be working within their existing main repository (branching as necessary). 
+
+
+This will involve setting up a development environment for each member of the Techlauncher team that will allow them to develop for the main Trade Up system. This includes configuring a MySQL database, populating it with the necessary development test data, as well has making sure various dependencies are correctly installed with the appropriate version. 
+
+
+Furthermore, we will now have to acquaint ourselves with the system architecture of a mature codebase, as well as becoming familiar with Angular and any other development practices that Trade Up uses as part of their developer and operations workflows. It is our intention that much of this will be completed within the current sprint and over the summer break, so that when we begin the next semester, we are in a prime position to be immediately productive.
 
 <h3><a name = "Title5"> 5. Effective and Appropriate Decision Making </a></h3>
 <hr>
@@ -121,7 +130,7 @@ Acting On Feedback:
 
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-<h3><a name = "Title7"> 7. Appropriate documentation </a></h3>
+<h3><a name = "Title7"> 7. Appropriate Documentation </a></h3>
 <hr>
 
 [Github Wiki Page](https://github.com/davidRoussov/trade-up/wiki)
@@ -143,7 +152,7 @@ Acting On Feedback:
 
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-**Technical depth of outputs:**
+**Technical Depth of Outputs:**
 
 - We spend lots of time figure out all the units and meanings of the construction variables. We spend lots of time and effort to calculate each dependencies and make sure we understand all the calculation and algorithms. Although it was a time consuming job and require lots of calculation and formula, now we have a full, deep and clear understanding of our customers’ website and how they operate. This will provide great benefit for future development.
 - github has some weird merge conflict during commit push and pull. There are randomly appeared files that cannot be git ignored or deleted.
@@ -152,7 +161,7 @@ Acting On Feedback:
 - Gradle cached build dependencies that caused permission errors when committing to Git.
 - Cross Origin Resource Sharing issues because the frontend is based on Webpack Dev Server which is a server separate to the Grails server and runs on a different port.
 
-**Technical breadth of outputs:**
+**Technical Breadth of Outputs:**
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/sysarch.png?raw=true)
 
