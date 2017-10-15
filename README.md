@@ -8,8 +8,9 @@
 # Project Audit 3 Landing Page
 
 <h3><a name = "content"> Content </a></h3>
-<a href = "#Title1"><b> 1. Value Delivered to the Client </b></a><br/>
-<a href = "#Title3"><b> 2. Project Governance </b></a><br/>
+<a href = "#Title1"><b> 1. Value delivered to the client </b></a><br/>
+<a href = "#Title2"><b> 2. Feedback From Client </b></a><br/>
+<a href = "#Title3"><b> 3. Project Governance </b></a><br/>
 <a href = "#Title4"><b> 4. Current Project Progress </b></a><br/>
 <a href = "#Title5"><b> 5. Effective and Appropriate Decision Making </b></a><br/>
 <a href = "#Title6"><b> 6. Organisation of Project </b></a><br/>
@@ -44,7 +45,7 @@ Below chart shows 35/41 issues in Sprint 4 which have all been completed - with 
 <p align="center" vertical-align = "middle"><b> Sprint 4 User Stories Burndown Chart </b></p>
 
 
-<h3><a name = "Title3"> 2. Project Governance </a></h3>
+<h3><a name = "Title3"> 3. Project Governance </a></h3>
 <hr>
 
 ### Evidence of Decision Making ###
@@ -61,7 +62,7 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-<h3><a name = "Title4"> 3. Current Project Progress </a></h3>
+<h3><a name = "Title4"> 4. Current Project Progress </a></h3>
 <hr>
 
 <table borde r= 3>
@@ -88,7 +89,7 @@ This will involve setting up a development environment for each member of the Te
 
 Furthermore, we will now have to acquaint ourselves with the system architecture of a mature codebase, as well as becoming familiar with Angular and any other development practices that Trade Up uses as part of their developer and operations workflows. It is our intention that much of this will be completed within the current sprint and over the summer break, so that when we begin the next semester, we are in a prime position to be immediately productive.
 
-<h3><a name = "Title5"> 4. Effective and Appropriate Decision Making </a></h3>
+<h3><a name = "Title5"> 5. Effective and Appropriate Decision Making </a></h3>
 <br><a href = "#content"><i> Click[Back To Content] </i></a><br>
 <hr>
 
@@ -97,7 +98,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 [Decision Making Progress](https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit)
 
 
-<h3><a name = "Title6"> 5. Organisation of Project </a></h3> <a href = "#content"><i> Click[Back To Content] </i></a>
+<h3><a name = "Title6"> 6. Organisation of Project </a></h3> <a href = "#content"><i> Click[Back To Content] </i></a>
 
 ### Team ###
  1. Annalisa O'Sullivan - Trade Up - Client<br/>
@@ -135,15 +136,15 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 
 
-<h3><a name = "Title7"> 6. Appropriate Documentation </a></h3>
+<h3><a name = "Title7"> 7. Appropriate Documentation </a></h3>
 <hr>
 
 [Github Wiki Page](https://github.com/davidRoussov/trade-up/wiki)
 
-<h3><a name = "Title8"> 7. Project Outputs </a>
+<h3><a name = "Title8"> 8. Project Outputs </a></h3> <a href = "#content"><i> Click[Back To Content] </i></a>
 <hr>
 
-### Project Poster ###
+## Project Poster ##
 
 ![image](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Poster_A2-1.jpg?raw=true)
   <p align="center" vertical-align = "middle">
@@ -167,7 +168,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 **Technical Breadth of Outputs:**
 
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/sysarch.png?raw=true)
+![image](https://user-images.githubusercontent.com/7090914/31581830-644c12a6-b1bf-11e7-8731-9af01cfbaa84.png)
 
 We tried and used different tools in order to optimise our output
 - We used excel to design the algorithms, draw.io to create flow chart and UML
@@ -190,7 +191,12 @@ We tried and used different tools in order to optimise our output
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/technique%20hub.jpg?raw=true)
 
-<h3><a name = "Title9"> 8. Meetings</a></h3>
+<a href = "#content"><i> Click[Back To Content] </i></a>
+
+**appropriateness of outputs:**
+We have client meeting every other forthnight. 
+
+<h3><a name = "Title9"> 9. Meetings</a></h3>
 
 Previous Meetings <br/>
 https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE
