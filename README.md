@@ -95,7 +95,11 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 - Not working as a team? As specified above, everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together
 
-<img src="https://github.com/davidRoussov/trade-up/blob/master/images/1.jpg" height="610" width="600">
+<img src="https://github.com/davidRoussov/trade-up/blob/master/images/1.jpg" align="center" vertical-align="middle" height="610" width="600">
+<p align="center" vertical-align="middle"><b> Week 3 Client Meeting </b></p>
+
+<img src="https://github.com/davidRoussov/trade-up/blob/master/images/2.jpg" align="center" vertical-align="middle" height="610" width="600">
+<p align="center" vertical-align="middle"><b> Week 9 Team Meeting </b></p>
 
 
 <h2><a name = "Title3"> 3. Current Project Progress </a></h2>
