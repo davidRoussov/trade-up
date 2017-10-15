@@ -89,21 +89,24 @@ Each team member answers 3 following questions:
 
 - When a new sprint starts, each task will be distributed among each team member from JIRA assigned by client and/or the team itself. 
 
-- Each sprint will last 2 weeks, where each member will work on the allocated task individually during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as a team. 
+- Each sprint will last 2 weeks, where each member will work on the allocated task individually or together during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as an entire team. 
 
 ### Engagement With Stakeholders ###
 - We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
 
 - We have regular client meeting from 7pm - 9pm every fortnight on Wednesday.
 
-- During our 2-hour client meeting, we ask client questions and update client the progress of our project. 
+- During our 2-hour client meeting, we ask client questions, update client the progress of our project, and prepare for new sprint, create new tasks together with client, and think of new ideas of exisiting implementation. 
 
 ### Team Collaboration ###
-- We will first have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions can organise organize individual meeting time with the client. Then Jie Gao will create tasks on Jira and assign tasks to us. We will assign tasks on Jira and some people will work together on some related tasks. For example, in this week Honggu and Hong both designed the algorithms and will chat with Bruce to finalise the algorithms. After they finished implementing, David and other team members will be involved in testing. Jason setup database and helped us to analysis data to reformat them to have better structure so that Honggu and David can use them.
+- We have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions, they can organise individual meeting time with the client. Then team members and client will create tasks on JIRA. We assign tasks on JIRA and members will work together on some related tasks. For example, Sprint 4 and the on-going Sprint 5, tasks were created by the team and the client together. Tasks were allocated to each team member, whereas each member picked the task(s) they wanted to do, and remaining unpicked tasks were allocated by team lead. 
+
+- Team communication have been transitioned from Facebook to Slack where team have the opportunity to communicate with internal team members, client, tutor, and shadow team within one platform. 
 
 ### Acting On Feedback ### 
-- Not respond to shadow team? Now we have Jie in charge of the Slack communication so whenever the shadow team have questions we will make sure that we respond to them quickly.
-- Not working as a team? As specified above, everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
+- Not respond to shadow team? We have decided as a group to all communicate on Slack, increasing the chance of incoming messages from shadow team. Team lead has taken the main role of being the center communicator between shadow team and our team. Acting on the feedback from our shadow team and tutor, the communication and interaction on Slack have grow exponentially among our team with client, tutor, shadow team, and internal members.  
+
+- Not working as a team? We meet every Sunday from 1pm - 5pm and meet during week days when collorabation needed among individual team mates. Everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
 
 
 <h2><a name = "Title3"> 3. Current Project Progress </a></h2>
