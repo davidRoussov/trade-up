@@ -185,20 +185,19 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 ## Technical Breadth of Outputs: ##
 
 We tried and used different tools in order to optimise our output
-- We used excel to design the algorithms, draw.io to create flow chart and UML
-- Assign for a public computer to build up public environment for testing
+- React for front end development
+- Mysql for database
+- Excel for mock-up for algorithms
 - Grails for back-end
 - Jest for testing
 - SASS preprocessing
 - Webpack for module bundling, minification and optimisation
 - Babel transpilation
-- Jira for agile project management
+- JIRA for agile project management
 - Doodle for organising meeting
 - Slack for communication
 - Github for Landing Page
 - Google Drive for file/notes sharing
-- React for front end development
-- Mysql for database
 
 ![](https://github.com/davidRoussov/trade-up/blob/master/images/hub.jpg)
 
