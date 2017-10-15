@@ -191,3 +191,15 @@ https://docs.google.com/document/d/1pmKjQVpWhAHcBwulCoEI_FPQ3Mv_ix2p78_obDleh0M/
 
 Weekly Scrum meeting 27/08/2017 <br/>
 https://docs.google.com/document/d/15k6ug9GBh7l2o6xEDWjzlf-MCj_Ivpskr7rjhJbHYpo/edit#
+
+<h3><a name = "Title9"> 10. Team </a></h3>
+<a href = "#content"><i> Click[Back To Content] </i></a>
+1. Annalisa O'Sullivan - Trade Up - Client
+2. Trent - Trade Up - Client
+3. Elena Williams - Tutor
+4. Jie Gao - Project Lead
+5. David Roussov - Technical Lead
+6. Honggu Lin - Developer
+7. Lin Peng - Developer
+8. Hong You - Developer
+9. Jason Luo - Developer
