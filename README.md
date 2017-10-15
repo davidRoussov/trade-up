@@ -13,11 +13,11 @@
 <a href = "#Title2"><b> 2. Feedback From Client </b></a><br/>
 <a href = "#Title3"><b> 3. Project Governance </b></a><br/>
 <a href = "#Title4"><b> 4. Current Project Progress </b></a><br/>
-<a href = "#Title5"><b> 5. Effective and appropriate decision making </b></a><br/>
-<a href = "#Title6"><b> 6. Organisation of project </b></a><br/>
-<a href = "#Title7"><b> 7. Appropriate documentation </b></a><br/>
+<a href = "#Title5"><b> 5. Effective and Appropriate Decision Making </b></a><br/>
+<a href = "#Title6"><b> 6. Organisation of Project </b></a><br/>
+<a href = "#Title7"><b> 7. Appropriate Documentation </b></a><br/>
 <a href = "#Title8"><b> 8. Project Outputs </b></a><br/>
-<a href = "#Title9"><b> 9. Meetings during this period </b></a><br/>
+<a href = "#Title9"><b> 9. Meetings</b></a><br/>
 
 ***
 
