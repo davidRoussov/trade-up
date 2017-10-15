@@ -134,8 +134,6 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 [Github Wiki Page](https://github.com/davidRoussov/trade-up/wiki)
 
-<h3>Technical Artifacts</h3>
-
 <h3><a name = "Title8"> 8. Project Outputs </a></h3>
 <hr>
 
@@ -206,4 +204,3 @@ https://docs.google.com/document/d/1gzdo081U5w-yaNpRfD6aa8A0RXvFbICA2XhIHx0bIqA/
 https://docs.google.com/document/d/1UDymCaCaHzDTkoSgJtMzw4SyGsb1hzOJLZNJQPg1fy0/edit
 https://docs.google.com/document/d/1DrQ_J5bXO5LcBVbXLw8_xx_fG8KznV9Oq_u706wd1lo/edit
 
-<a href = "#content"><i> Click[Back To Content] </i></a>
