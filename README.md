@@ -45,10 +45,8 @@ Below chart shows 35/41 issues in Sprint 4 which have all been completed - with 
 
 ![image](https://user-images.githubusercontent.com/7090914/31581396-875b4964-b1b6-11e7-96d1-7462fd8153b8.png)
 <p align="center" vertical-align = "middle"><b> Sprint 4 User Stories Burndown Chart </b></p>
-
-
+</br>
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
-<hr>
 
 ## Evidence of Decision Making ##
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
