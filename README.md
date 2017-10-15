@@ -15,7 +15,6 @@
 <a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
 <a href = "#Title6"><b> 6. Meetings</b></a><br/>
 
-***
 
 <h2>PROJECT SOURCE CODE (IN BITBUCKET)<h2>
 https://bitbucket.org/123tradeup/tu-techlauncher
