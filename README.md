@@ -83,7 +83,7 @@ Traceability of actions:
 <table borde r= 3>
 <tr align = "center">
 <th>Current sprint</th>
-<th>sprint 2</th>
+<th>sprint 5</th>
 </tr>
 <tr align = "center">
 <td><b>Total sprints in this semester</b></td>
@@ -91,7 +91,7 @@ Traceability of actions:
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>21st August - 3rd September</b></td>
+<td><b>1st October - 29th October</b></td>
 </tr>
 </table>
 
