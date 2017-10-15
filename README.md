@@ -17,7 +17,7 @@
 <a href = "#Title7"><b> 7. Appropriate Documentation </b></a><br/>
 <a href = "#Title8"><b> 8. Project Outputs </b></a><br/>
 <a href = "#Title9"><b> 9. Meetings</b></a><br/>
-<a href = "#Title10"><b> 10.Team</b></a><br/>
+<a href = "#Title9"><b> 10. Meetings</b></a><br/>
 
 ***
 
@@ -81,11 +81,6 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 </tr>
 </table>
 
-### User Story Map ###
-[User Story Map](https://drive.google.com/drive/folders/0Bzc3lP9XuDfvQXRsSjZ1WGV3LUk)
-
-<a href = "#content"><i> Click[Back To Content] </i></a>
-
 <h3><a name = "Title5"> 5. Effective and Appropriate Decision Making </a></h3>
 <hr>
 
@@ -95,13 +90,18 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 <br><a href = "#content"><i> Click[Back To Content] </i></a><br>
 
-<h3><a name = "Title6"> 6. Organisation of project </a></h3>
+<h3><a name = "Title6"> 6. Organisation of Project </a></h3>
 
-Team Members
-- Team Lead: Jie Gao
-- Technical Lead: David Roussov
-- Communication Lead: Lin Peng (Atlas) & You Hong
-- Team member: Honggu Lin & Jiangshan Luo (Jason)
+### Team ###
+ 1. Annalisa O'Sullivan - Trade Up - Client<br/>
+ 2. Trent O'Sullivan - Trade Up - Client<br/>
+ 3. Elena Williams - Tutor<br/>
+ 4. Jie Gao - Project Lead<br/>
+ 5. David Roussov - Technical Lead<br/>
+ 6. Honggu Lin - Developer<br/>
+ 7. Lin Peng - Developer<br/>
+ 8. Hong You - Developer<br/>
+ 9. Jason Luo - Developer<br/>
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
 
