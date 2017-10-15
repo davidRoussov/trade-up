@@ -35,9 +35,13 @@ Picture shows that we have 14 stories in peak, and we have finished 10 of them w
 
 <h3>Value Delivered to Client</h3>
 1. Subcontractors can track project progress and make adjustments for workers to maximise productivity.  
+
 2. Subcontractors are able to forecast work completion date including contract/work completion days, and contract start and end date.  
+
 3. Human errors for each construction project can be predicted for each project site.  
+
 4. Trade-Up clients including subcontractors are able to visualise their project using the implemented calendar instead of predicting resources and dates on paper.  
+
 5. Trade-Up have now have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
 
 
