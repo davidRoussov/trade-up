@@ -9,13 +9,12 @@
 
 <h3><a name = "content"> Content </a></h3>
 <a href = "#Title1"><b> 1. Value Delivered to the Client </b></a><br/>
-<a href = "#Title3"><b> 2. Project Governance </b></a><br/>
-<a href = "#Title4"><b> 3. Current Project Progress </b></a><br/>
-<a href = "#Title5"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
-<a href = "#Title6"><b> 5. Organisation of Project </b></a><br/>
-<a href = "#Title7"><b> 6. Appropriate Documentation </b></a><br/>
-<a href = "#Title8"><b> 7. Project Outputs </b></a><br/>
-<a href = "#Title9"><b> 8. Meetings</b></a><br/>
+<a href = "#Title2"><b> 2. Project Governance </b></a><br/>
+<a href = "#Title3"><b> 3. Current Project Progress </b></a><br/>
+<a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
+<a href = "#Title5"><b> 5. Organisation of Project </b></a><br/>
+<a href = "#Title6"><b> 6. Project Outputs </b></a><br/>
+<a href = "#Title7"><b> 7. Meetings</b></a><br/>
 
 ***
 
@@ -47,7 +46,7 @@ Below chart shows 35/41 issues in Sprint 4 which have all been completed - with 
 <p align="center" vertical-align = "middle"><b> Sprint 4 User Stories Burndown Chart </b></p>
 
 
-<h3><a name = "Title3"> 2. Project Governance </a></h3>
+<h3><a name = "Title2"> 2. Project Governance </a></h3>
 <hr>
 
 ### Evidence of Decision Making ###
@@ -62,7 +61,7 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 [JIRA Template](https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit)
 
-<h3><a name = "Title4"> 3. Current Project Progress </a></h3>
+<h3><a name = "Title3"> 3. Current Project Progress </a></h3>
 <hr>
 
 <table borde r= 3>
@@ -93,7 +92,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 ![image](https://user-images.githubusercontent.com/7090914/31581873-ab8d40d0-b1c0-11e7-85e3-045a21041f2f.png)
 
-<h3><a name = "Title5"> 4. Effective and Appropriate Decision Making </a></h3>
+<h3><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h3>
 <hr>
 
 [Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
@@ -101,7 +100,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 [Decision Making Progress](https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit)
 
 
-<h3><a name = "Title6"> 5. Organisation of Project </a></h3>
+<h3><a name = "Title5"> 5. Organisation of Project </a></h3>
 <hr>
 
 ### Team ###
@@ -140,12 +139,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 
 
-<h3><a name = "Title7"> 6. Appropriate Documentation </a></h3>
-<hr>
-
-[Github Wiki Page](https://github.com/davidRoussov/trade-up/wiki)
-
-<h3><a name = "Title8"> 7. Project Outputs </a>
+<h3><a name = "Title6"> 6. Project Outputs </a>
 <hr>
 
 ### Project Poster ###
@@ -194,7 +188,7 @@ We tried and used different tools in order to optimise our output
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/technique%20hub.jpg?raw=true)
 
-<h3><a name = "Title9"> 8. Meetings</a></h3>
+<h3><a name = "Title7"> 7. Meetings</a></h3>
 
 Previous Meetings <br/>
 https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE
