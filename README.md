@@ -106,7 +106,8 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 ### Acting On Feedback ### 
 - Not respond to shadow team? We have decided as a group to all communicate on Slack, increasing the chance of incoming messages from shadow team. Team lead has taken the main role of being the center communicator between shadow team and our team. Acting on the feedback from our shadow team and tutor, the communication and interaction on Slack have grow exponentially among our team with client, tutor, shadow team, and internal members.  
-- Not working as a team? We meet every Sunday from 1pm - 5pm and meet during week days when collorabation needed among individual team mates. Everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
+
+- Not working as a team? Instead of going to church, we meet every Sunday from 1pm - 5pm and meet during week days when collorabation needed among individual team mates. Everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
 
 <p align="center">
  <img src="https://github.com/davidRoussov/trade-up/blob/master/images/1.jpg" height="610" width="600">
