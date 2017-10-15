@@ -186,20 +186,17 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 We tried and used different tools in order to optimise our output
 - We used excel to design the algorithms, draw.io to create flow chart and UML
-- assign for a public computer to build up public environment for testing
-- balsamiq mockups for design
+- Assign for a public computer to build up public environment for testing
 - Grails for back-end
-- React + Redux for front-end
 - Jest for testing
 - SASS preprocessing
 - Webpack for module bundling, minification and optimisation
 - Babel transpilation
 - Jira for agile project management
 - Doodle for organising meeting
-- Slack to communicate with Trade-up
-- github to organise our project
-- lonic creator/InVision for prototype
-- Google drive for file/notes sharing
+- Slack for communication
+- Github for Landing Page
+- Google Drive for file/notes sharing
 - React for front end development
 - Mysql for database
 
