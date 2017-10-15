@@ -98,7 +98,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 <br><a href = "#content"><i> Click[Back To Content] </i></a><br>
 
-<h3><a name = "Title6"> 6. Organisation of Project </a></h3>
+<h3><a name = "Title6"> 6. Organisation of Project </a></h3> <a href = "#content"><i> Click[Back To Content] </i></a>
 
 ### Team ###
  1. Annalisa O'Sullivan - Trade Up - Client<br/>
@@ -113,21 +113,21 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
 
-Development Approach
+### Development Approach ###
 - Create prototype, present 
 
-Engagement With Stakeholders 
+### Engagement With Stakeholders ###
 - We had individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
 - We had regular meeting at Wed 7-9pm every fortnight
 
-Team Collaboration
+### Team Collaboration ###
 - We will first have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions can organise organize individual meeting time with the client. Then Jie Gao will create tasks on Jira and assign tasks to us. We will assign tasks on Jira and some people will work together on some related tasks. For example, in this week Honggu and Hong both designed the algorithms and will chat with Bruce to finalise the algorithms. After they finished implementing, David and other team members will be involved in testing. Jason setup database and helped us to analysis data to reformat them to have better structure so that Honggu and David can use them.
 
-Acting On Feedback:
+### Acting On Feedback ### 
 - Not respond to shadow team? Now we have Jie in charge of the Slack communication so whenever the shadow team have questions we will make sure that we respond to them quickly.
 - Not working as a team? As specified above, everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
 
-<a href = "#content"><i> Click[Back To Content] </i></a>
+
 
 <h3><a name = "Title7"> 7. Appropriate Documentation </a></h3>
 <hr>
