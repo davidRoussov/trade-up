@@ -122,7 +122,6 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 
 <h2><a name = "Title3"> 3. Current Project Progress </a></h2>
-<hr>
 
 <table borde r= 3>
 <tr align = "center">
@@ -139,8 +138,8 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 </tr>
 </table>
 
-<h4>Sprint 5 - Preparing for the next stage of the project</h4>
-With the completion of the company and project calendars within our own prototyping environment, we have now been in the process of integrating these features into their existing codebase, to be deployed into production. At the same time, we are now ready to proceed with the next Agile "Epic" - the allocation of specific employees to projects based on the project calendar we have made. This will be the focus of our next sprint in the following semester, however the development workflow will be different going forward in that we will be working within their existing main repository (branching as necessary). 
+<h3>Sprint 5 - Preparing for the Next Stage of the Project</h3>
+With the completion of the company and project calendars within our own prototyping environment, we have now been in the process of integrating these features into their existing codebase, to be deployed into production. At the same time, we are now ready to proceed with the next Agile "Epic" - the allocation of specific employees to projects based on the project calendar we have made. This will be the focus of our next sprint in the following semester, however the development workflow will be different going forward in that we will be working within their existing main repository (branching as necessary).  
 
 
 This will involve setting up a development environment for each member of the Techlauncher team that will allow them to develop for the main Trade Up system. This includes configuring a MySQL database, populating it with the necessary development test data, as well has making sure various dependencies are correctly installed with the appropriate version. 
@@ -148,20 +147,17 @@ This will involve setting up a development environment for each member of the Te
 
 Furthermore, we will now have to acquaint ourselves with the system architecture of a mature codebase, as well as becoming familiar with Angular and any other development practices that Trade Up uses as part of their developer and operations workflows. It is our intention that much of this will be completed within the current sprint and over the summer break, so that when we begin the next semester, we are in a prime position to be immediately productive.
 
-<h4>System Archictecture of The Protyping System/Environment</h4>
+<h3>System Archictecture of The Protyping System/Environment</h3>
 
 ![image](https://user-images.githubusercontent.com/7090914/31581873-ab8d40d0-b1c0-11e7-85e3-045a21041f2f.png)
 
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
-<hr>
 
 [Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
 
 [Decision Making Progress](https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit)
 
-
 <h2><a name = "Title5"> 5. Project Outputs </a></h2>
-<hr>
 
 ## Project Poster ##
 
@@ -177,7 +173,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 [Test](https://drive.google.com/drive/folders/0B1P_0vs9L9yKVGN3bFllaFNXOTg)
 
 
-**Technical Depth of Outputs:**
+## Technical Depth of Outputs: ##
 
 - We spend lots of time figure out all the units and meanings of the construction variables. We spend lots of time and effort to calculate each dependencies and make sure we understand all the calculation and algorithms. Although it was a time consuming job and require lots of calculation and formula, now we have a full, deep and clear understanding of our customers’ website and how they operate. This will provide great benefit for future development.
 - github has some weird merge conflict during commit push and pull. There are randomly appeared files that cannot be git ignored or deleted.
@@ -186,7 +182,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 - Gradle cached build dependencies that caused permission errors when committing to Git.
 - Cross Origin Resource Sharing issues because the frontend is based on Webpack Dev Server which is a server separate to the Grails server and runs on a different port.
 
-**Technical Breadth of Outputs:**
+## Technical Breadth of Outputs: ##
 
 We tried and used different tools in order to optimise our output
 - We used excel to design the algorithms, draw.io to create flow chart and UML
@@ -212,8 +208,8 @@ We tried and used different tools in order to optimise our output
 <h2><a name = "Title6"> 6. Meetings</a></h2>
 
 Meetings <br/>
-Sprint 1 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE
-Sprint 2 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvNnhvX0FkclhwMnM
-Sprint 3 - https://docs.google.com/document/d/1Qnvj02ySYB8DTBecLbMMbbaciW4iZE-4xrcdXBu_7js/edit
-Sprint 4 - https://docs.google.com/document/d/194vW0NMO9CqBcbwtawUN2jUfp3Kk7rdf9T7uNhXy224/edit
-Sprint 5 - https://docs.google.com/document/d/1XxgnambDIuf7ttNvMUO8ugMbQ_djq_frvR3zi_cvInQ/edit
+Sprint 1 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE . 
+Sprint 2 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvNnhvX0FkclhwMnM . 
+Sprint 3 - https://docs.google.com/document/d/1Qnvj02ySYB8DTBecLbMMbbaciW4iZE-4xrcdXBu_7js/edit . 
+Sprint 4 - https://docs.google.com/document/d/194vW0NMO9CqBcbwtawUN2jUfp3Kk7rdf9T7uNhXy224/edit . 
+Sprint 5 - https://docs.google.com/document/d/1XxgnambDIuf7ttNvMUO8ugMbQ_djq_frvR3zi_cvInQ/edit . 
