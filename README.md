@@ -34,6 +34,7 @@ https://bitbucket.org/123tradeup/tu-techlauncher
 Picture shows that we have 14 stories in peak, and we have finished 10 of them with remaining 4 stories.
 
 <h3>Value Delivered to Client</h3>
+
 1. Subcontractors can track project progress and make adjustments for workers to maximise productivity. 
 
 2. Subcontractors are able to forecast work completion date including contract/work completion days, and contract start and end date.
