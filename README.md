@@ -19,16 +19,11 @@
 
 ***
 
-<h3>HOW TO RUN THE PROJECT(Navigate to our project in Bitbucket)<h3>
+<h3>PROJECT SOURCE CODE (IN BITBUCKET)<h3>
 https://bitbucket.org/123tradeup/tu-techlauncher
 
-***
 
-
-
-***
-
-<h3>Project Overview<h3>
+<h3>PROJECT OVERVIEW<h3>
 https://github.com/davidRoussov/trade-up/wiki
 
 ***
