@@ -34,22 +34,22 @@ https://bitbucket.org/123tradeup/tu-techlauncher
 
 Picture shows that we have 14 stories in peak, and we have finished 10 of them with remaining 4 stories.
 
-**Value Delivered to Client**
+<h3>Value Delivered to Client</h3>
 
 
 
-**Effective and Appropriate Decision Making**
+<h3>Effective and Appropriate Decision Making</h3>
    
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project.  
 The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. 
 
 
-**Appropriate Documentation**
+<h3>Appropriate Documentation</h3>
  
 An improvement could be better demonstration of achieved outcomes at the conclusion of a sprint. This could be done at the fortnightly meetings. We encourage the group at next meeting to be ready to walk thru their outcomes as you would when delivering work to a client. 
 The group has grown over the last few weeks in their understanding of the end result goal. 
 
-**Technical Artifacts** 
+<h3>Technical Artifacts</h3>
 
 The team have been very enthusiastic to attend meetings and communicate online. They have shown a great interest in making sure the project they deliver to us is one that will be useful to sell to our customers.
 
