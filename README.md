@@ -28,11 +28,6 @@ https://bitbucket.org/123tradeup/tu-techlauncher
 
 <h3><a name = "Title1"> 1. Value delivered to the client </a></h3> 
 
-![image](https://user-images.githubusercontent.com/7090914/31581396-875b4964-b1b6-11e7-96d1-7462fd8153b8.png)
-<p align="center" vertical-align = "middle"><b> Sprint 4 User Stories Burndown Chart </b></p>
-
-Picture shows that we have 14 stories in peak, and we have finished 10 of them with remaining 4 stories.
-
 1. Subcontractors can track project progress and make adjustments for workers to maximise productivity. 
 
 2. Subcontractors are able to forecast work completion date including contract/work completion days, and contract start and end date.
@@ -42,6 +37,12 @@ Picture shows that we have 14 stories in peak, and we have finished 10 of them w
 4. Trade-Up clients including subcontractors are able to visualise their project using the implemented calendar instead of predicting resources and dates on paper.
 
 5. Trade-Up have now have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
+
+Below chart shows 35/41 issues in Sprint 4 which have all been completed - with the remaining tasks left under the Trade-Up employed team.
+
+![image](https://user-images.githubusercontent.com/7090914/31581396-875b4964-b1b6-11e7-96d1-7462fd8153b8.png)
+<p align="center" vertical-align = "middle"><b> Sprint 4 User Stories Burndown Chart </b></p>
+
 
 <h3><a name = "Title3"> 3. Project Governance </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
@@ -71,7 +72,7 @@ Traceability of actions:
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>15th October - 29th October</b></td>
+<td><b>1st October - 29th October</b></td>
 </tr>
 </table>
 
