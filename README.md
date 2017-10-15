@@ -23,10 +23,9 @@ https://bitbucket.org/123tradeup/tu-techlauncher
 <h2>PROJECT OVERVIEW<h2>
 https://github.com/davidRoussov/trade-up/wiki
 
-***
 
 <h2><a name = "Title1"> 1. Value Delivered to the Client </a></h2>
-<hr>
+
 
 *Subcontractors are referred as to Trade-Up's clients*
 
