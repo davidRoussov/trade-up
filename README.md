@@ -42,11 +42,11 @@ Customers were very satisfy with the productivity of our progress in this projec
 
 > “I was so impressed to hear you guys had already implemented a weekly scrum meeting and are utilizing the access to the office.” '
 
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/client%20meeting1.png?raw=true)
-<p align="center" vertical-align="middle"><b> everyone at the scrum review meeting </b></p>
+![](http://www.trade-up.com.au/wp-content/uploads/2017/08/Resized_20170816_211412.jpeg)
+<p align="center" vertical-align="middle"><b> Week 3 Client Meeting </b></p>
 
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/client%20meeting2.png?raw=true)
-<p align="center" vertical-align="middle"><b> having pizza with customers </b></p>
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
+<p align="center" vertical-align="middle"><b> Week 10 Project Showcase </b></p>
 
 Both Bruce and Annalisa are very satisfied with our team. 
 
