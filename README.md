@@ -25,7 +25,7 @@
 https://bitbucket.org/123tradeup/tu-techlauncher
 
 ***
-
+lsdkjfdlsf
 <h3><a name = "Title1"> 1. Value delivered to the client </a></h3> 
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
