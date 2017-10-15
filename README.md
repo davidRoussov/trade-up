@@ -152,8 +152,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 [High-Level Overview of Project](https://docs.google.com/spreadsheets/d/1MBL69Njxc0PIVpFxtb0k24sSqK6RbCLsb7hAyTylB0s/edit#gid=0)
 
-[Github Source Code](https://github.com/davidRoussov/trade-up)
-[Bitbucket Source Code](https://bitbucket.org/123tradeup/tu-techlauncher)
+[Bitbucket Source Code](https://bitbucket.org/123tradeup/tu-techlauncher/src/8140354906478825060597711574b16bde31e9e2?at=develop)
 
 [Prototypes](https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM)
 
