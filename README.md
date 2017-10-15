@@ -21,7 +21,7 @@
 
 ***
 
-<h2>HOW TO RUN THE PROJECT(Navigate to our project in Bitbucket)<h2>
+<h3>HOW TO RUN THE PROJECT(Navigate to our project in Bitbucket)<h3>
 https://bitbucket.org/123tradeup/tu-techlauncher
 
 ***
