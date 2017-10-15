@@ -207,9 +207,8 @@ We tried and used different tools in order to optimise our output
 
 <h2><a name = "Title6"> 6. Meetings</a></h2>
 
-Meetings <br/>
-Sprint 1 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE . 
-Sprint 2 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvNnhvX0FkclhwMnM . 
-Sprint 3 - https://docs.google.com/document/d/1Qnvj02ySYB8DTBecLbMMbbaciW4iZE-4xrcdXBu_7js/edit . 
-Sprint 4 - https://docs.google.com/document/d/194vW0NMO9CqBcbwtawUN2jUfp3Kk7rdf9T7uNhXy224/edit . 
-Sprint 5 - https://docs.google.com/document/d/1XxgnambDIuf7ttNvMUO8ugMbQ_djq_frvR3zi_cvInQ/edit . 
+Sprint 1 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE  </br>
+Sprint 2 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvNnhvX0FkclhwMnM  </br>
+Sprint 3 - https://docs.google.com/document/d/1Qnvj02ySYB8DTBecLbMMbbaciW4iZE-4xrcdXBu_7js/edit </br>
+Sprint 4 - https://docs.google.com/document/d/194vW0NMO9CqBcbwtawUN2jUfp3Kk7rdf9T7uNhXy224/edit </br>
+Sprint 5 - https://docs.google.com/document/d/1XxgnambDIuf7ttNvMUO8ugMbQ_djq_frvR3zi_cvInQ/edit </br>
