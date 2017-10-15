@@ -11,11 +11,11 @@
 <a href = "#Title1"><b> 1. Value Delivered to the Client </b></a><br/>
 <a href = "#Title3"><b> 2. Project Governance </b></a><br/>
 <a href = "#Title4"><b> 3. Current Project Progress </b></a><br/>
-<a href = "#Title5"><b> 5. Effective and Appropriate Decision Making </b></a><br/>
-<a href = "#Title6"><b> 6. Organisation of Project </b></a><br/>
-<a href = "#Title7"><b> 7. Appropriate Documentation </b></a><br/>
-<a href = "#Title8"><b> 8. Project Outputs </b></a><br/>
-<a href = "#Title9"><b> 9. Meetings</b></a><br/>
+<a href = "#Title5"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
+<a href = "#Title6"><b> 5. Organisation of Project </b></a><br/>
+<a href = "#Title7"><b> 6. Appropriate Documentation </b></a><br/>
+<a href = "#Title8"><b> 7. Project Outputs </b></a><br/>
+<a href = "#Title9"><b> 8. Meetings</b></a><br/>
 
 ***
 
