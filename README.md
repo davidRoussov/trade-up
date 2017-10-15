@@ -29,7 +29,7 @@ https://bitbucket.org/123tradeup/tu-techlauncher
 <h3><a name = "Title1"> 1. Value delivered to the client </a></h3> 
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Sprint%201%20User%20Stories%20Burndown%20Chart.png?raw=true)
+![image](https://user-images.githubusercontent.com/7090914/31581396-875b4964-b1b6-11e7-96d1-7462fd8153b8.png)
 <p align="center" vertical-align = "middle"><b> Sprint 1 User Stories Burndown Chart </b></p>
 
 Picture shows that we have 14 stories in peak, and we have finished 10 of them with remaining 4 stories.
