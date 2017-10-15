@@ -38,9 +38,11 @@ https://github.com/davidRoussov/trade-up/wiki
 
 3. Human errors for each construction project can be predicted for each project site.
 
-4. Trade-Up clients including subcontractors are able to visualise their project using the implemented calendar instead of predicting resources and dates on paper.
+4. A user-friendly interface for Trade-Up clients to navigate through each construction project on-site.
 
-5. Trade-Up have now have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
+5. Trade-Up clients including subcontractors are able to visualise their project using the implemented calendar instead of predicting resources and dates on paper.
+
+6. Trade-Up have now have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
 
 Below chart shows 35/41 issues in Sprint 4 which have all been completed - with the remaining tasks left under the Trade-Up employed team.
 
