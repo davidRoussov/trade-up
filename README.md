@@ -193,7 +193,7 @@ Weekly Scrum meeting 27/08/2017 <br/>
 https://docs.google.com/document/d/15k6ug9GBh7l2o6xEDWjzlf-MCj_Ivpskr7rjhJbHYpo/edit#
 
 <h3><a name = "Title9"> 10. Team </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
+<a href = "#content"><i> Click[Back To Content] </i></a><br/>
 1. Annalisa O'Sullivan - Trade Up - Client<br/>
 2. Trent - Trade Up - Client<br/>
 3. Elena Williams - Tutor<br/>
