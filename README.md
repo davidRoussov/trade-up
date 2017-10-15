@@ -47,9 +47,7 @@ Below chart shows 35/41 issues in Sprint 4 which have all been completed - with 
 
 
 <h3><a name = "Title3"> 3. Project Governance </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
-
-
+<hr>
 [Evidence of Decision-Making](https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00)
 
 
@@ -59,6 +57,8 @@ Traceability of actions:
 [JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
 
 [JIRA Template](https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit)
+
+<a href = "#content"><i> Click[Back To Content] </i></a>
 
 <h3><a name = "Title4"> 4. Current Project Progress </a></h3>
 
@@ -82,6 +82,7 @@ Traceability of actions:
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 <h3><a name = "Title5"> 5. Effective and appropriate decision making </a></h3>
+<hr>
 
 [Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
 
@@ -116,12 +117,14 @@ Acting On Feedback:
 <a href = "#content"><i> Click[Back To Content] </i></a>
 
 <h3><a name = "Title7"> 7. Appropriate documentation </a></h3>
+<hr>
 
 [Github Wiki Page](https://github.com/davidRoussov/trade-up/wiki)
 
 <h3>Technical Artifacts</h3>
 
 <h3><a name = "Title8"> 8. Project Outputs </a></h3>
+<hr>
 
 ![image](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Poster_A2-1.jpg?raw=true)
   <p align="center" vertical-align = "middle"><b> Project Poster </b></p>
@@ -174,20 +177,19 @@ We tried and used different tools in order to optimise our output
 **appropriateness of outputs:**
 - We always show our progress to our client and discuss with them for improvement
 
-<h3><a name = "Title9"> 9. Meetings during this period </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
+<h3><a name = "Title9"> 9. Meetings</a></h3>
 
 Previous Meetings <br/>
-https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE
-https://drive.google.com/drive/folders/0Bzc3lP9XuDfvNnhvX0FkclhwMnM
+https://drive.google.com/drive/folders/0B-KwcSa5tCbxaDl1WV9vdGRQaHc?usp=sharing
 
-Weekly Scrum Meeting <br/>
-https://docs.google.com/document/d/1Qnvj02ySYB8DTBecLbMMbbaciW4iZE-4xrcdXBu_7js/edit
-https://docs.google.com/document/d/194vW0NMO9CqBcbwtawUN2jUfp3Kk7rdf9T7uNhXy224/edit
-https://docs.google.com/document/d/1XxgnambDIuf7ttNvMUO8ugMbQ_djq_frvR3zi_cvInQ/edit
+Weekly Scrum Meeting 13/08/2017 <br/>
+https://docs.google.com/document/d/1tIvNu7-om1mDvdg7iVfqs3B3ZFSUJ30rjt8K4Ewq17A/edit
+https://docs.google.com/document/d/19dysTZx1mqUEfn6tlnwHwsmxiHb7BJK694skboSA9lY/edit
 
-Scrum Review Meeting with Clients <br/>
-https://docs.google.com/document/d/1gzdo081U5w-yaNpRfD6aa8A0RXvFbICA2XhIHx0bIqA/edit
-https://docs.google.com/document/d/1UDymCaCaHzDTkoSgJtMzw4SyGsb1hzOJLZNJQPg1fy0/edit
-https://docs.google.com/document/d/1DrQ_J5bXO5LcBVbXLw8_xx_fG8KznV9Oq_u706wd1lo/edit
+Scrum Review Meeting with Customers 16/08/2017 <br/>
+https://docs.google.com/document/d/1pmKjQVpWhAHcBwulCoEI_FPQ3Mv_ix2p78_obDleh0M/edit
 
+Weekly Scrum meeting 27/08/2017 <br/>
+https://docs.google.com/document/d/15k6ug9GBh7l2o6xEDWjzlf-MCj_Ivpskr7rjhJbHYpo/edit#
+
+<a href = "#content"><i> Click[Back To Content] </i></a>
