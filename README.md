@@ -174,19 +174,20 @@ We tried and used different tools in order to optimise our output
 **appropriateness of outputs:**
 - We always show our progress to our client and discuss with them for improvement
 
-<h3><a name = "Title9"> 9. Meetings</a></h3>
+<h3><a name = "Title9"> 9. Meetings during this period </a></h3>
+<a href = "#content"><i> Click[Back To Content] </i></a>
 
 Previous Meetings <br/>
-https://drive.google.com/drive/folders/0B-KwcSa5tCbxaDl1WV9vdGRQaHc?usp=sharing
+https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE
+https://drive.google.com/drive/folders/0Bzc3lP9XuDfvNnhvX0FkclhwMnM
 
-Weekly Scrum Meeting 13/08/2017 <br/>
-https://docs.google.com/document/d/1tIvNu7-om1mDvdg7iVfqs3B3ZFSUJ30rjt8K4Ewq17A/edit
-https://docs.google.com/document/d/19dysTZx1mqUEfn6tlnwHwsmxiHb7BJK694skboSA9lY/edit
+Weekly Scrum Meeting <br/>
+https://docs.google.com/document/d/1Qnvj02ySYB8DTBecLbMMbbaciW4iZE-4xrcdXBu_7js/edit
+https://docs.google.com/document/d/194vW0NMO9CqBcbwtawUN2jUfp3Kk7rdf9T7uNhXy224/edit
+https://docs.google.com/document/d/1XxgnambDIuf7ttNvMUO8ugMbQ_djq_frvR3zi_cvInQ/edit
 
-Scrum Review Meeting with Customers 16/08/2017 <br/>
-https://docs.google.com/document/d/1pmKjQVpWhAHcBwulCoEI_FPQ3Mv_ix2p78_obDleh0M/edit
+Scrum Review Meeting with Clients <br/>
+https://docs.google.com/document/d/1gzdo081U5w-yaNpRfD6aa8A0RXvFbICA2XhIHx0bIqA/edit
+https://docs.google.com/document/d/1UDymCaCaHzDTkoSgJtMzw4SyGsb1hzOJLZNJQPg1fy0/edit
+https://docs.google.com/document/d/1DrQ_J5bXO5LcBVbXLw8_xx_fG8KznV9Oq_u706wd1lo/edit
 
-Weekly Scrum meeting 27/08/2017 <br/>
-https://docs.google.com/document/d/15k6ug9GBh7l2o6xEDWjzlf-MCj_Ivpskr7rjhJbHYpo/edit#
-
-<a href = "#content"><i> Click[Back To Content] </i></a>
