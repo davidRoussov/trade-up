@@ -26,9 +26,9 @@ https://bitbucket.org/123tradeup/tu-techlauncher
 
 ***
 
-##
-<h3><a name = "Title1"> 1. Value delivered to the client </a></h3>
-##
+
+<h3><a name = "Title1"> 1. Value Delivered to the Client </a></h3>
+
 
 1. Subcontractors can track project progress and make adjustments for workers to maximise productivity. 
 
@@ -61,9 +61,6 @@ Traceability of actions:
 [JIRA Template](https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit)
 
 <h3><a name = "Title4"> 4. Current Project Progress </a></h3>
-
-<h4>Sprint 5 - Preparing for the next stage of the project</h4>
-With the completion of the company and project calendars within our own prototyping environment, we have now been in the process of integrating these features with their existing codebase, to be deployed into production. At the same time, we are now ready to proceed with the next Agile "Epic" - the allocation of specific employees to projects based on the project calendar we have made. This will be the focus of our next sprint in the following semester, however the development workflow will be different going forward in that we will be working within their existing main repository (branching as necessary).
 
 <table borde r= 3>
 <tr align = "center">
