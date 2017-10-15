@@ -59,8 +59,6 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 [JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
 
-[JIRA Template](https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit)
-
 <h3><a name = "Title3"> 3. Current Project Progress </a></h3>
 <hr>
 
@@ -153,7 +151,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 [Prototypes](https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM)
 
-[Test] (https://drive.google.com/drive/folders/0B1P_0vs9L9yKVGN3bFllaFNXOTg)
+[Test](https://drive.google.com/drive/folders/0B1P_0vs9L9yKVGN3bFllaFNXOTg)
 
 
 **Technical Depth of Outputs:**
