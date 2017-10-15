@@ -7,27 +7,26 @@
 
 # Project Audit 3 Landing Page
 
-<h3><a name = "content"> Content </a></h3>
+<h2><a name = "content"> Content </a></h2>
 <a href = "#Title1"><b> 1. Value Delivered to the Client </b></a><br/>
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
 <a href = "#Title3"><b> 3. Current Project Progress </b></a><br/>
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
-<a href = "#Title5"><b> 5. Organisation of Project </b></a><br/>
-<a href = "#Title6"><b> 6. Project Outputs </b></a><br/>
-<a href = "#Title7"><b> 7. Meetings</b></a><br/>
+<a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
+<a href = "#Title6"><b> 6. Meetings</b></a><br/>
 
 ***
 
-<h3>PROJECT SOURCE CODE (IN BITBUCKET)<h3>
+<h2>PROJECT SOURCE CODE (IN BITBUCKET)<h2>
 https://bitbucket.org/123tradeup/tu-techlauncher
 
 
-<h3>PROJECT OVERVIEW<h3>
+<h2>PROJECT OVERVIEW<h2>
 https://github.com/davidRoussov/trade-up/wiki
 
 ***
 
-<h3><a name = "Title1"> 1. Value Delivered to the Client </a></h3>
+<h2><a name = "Title1"> 1. Value Delivered to the Client </a></h2>
 <hr>
 
 *Subcontractors are referred as to Trade-Up's clients*
@@ -50,20 +49,20 @@ Below chart shows 35/41 issues in Sprint 4 which have all been completed - with 
 <p align="center" vertical-align = "middle"><b> Sprint 4 User Stories Burndown Chart </b></p>
 
 
-<h3><a name = "Title2"> 2. Project Governance </a></h3>
+<h2><a name = "Title2"> 2. Project Governance </a></h2>
 <hr>
 
-### Evidence of Decision Making ###
+## Evidence of Decision Making ##
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
 This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00)
 
 
-### Traceability of Actions ### 
+## Traceability of Actions ##
 [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
 
 [JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
 
-### Organisation of Project ###
+## Organisation of Project ##
 
 ### Team ###
  1. Annalisa O'Sullivan - Trade Up - Client<br/>
@@ -100,7 +99,7 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 - Not working as a team? As specified above, everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
 
 
-<h3><a name = "Title3"> 3. Current Project Progress </a></h3>
+<h2><a name = "Title3"> 3. Current Project Progress </a></h2>
 <hr>
 
 <table borde r= 3>
@@ -131,7 +130,7 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 ![image](https://user-images.githubusercontent.com/7090914/31581873-ab8d40d0-b1c0-11e7-85e3-045a21041f2f.png)
 
-<h3><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h3>
+<h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 <hr>
 
 [Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
@@ -139,49 +138,10 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 [Decision Making Progress](https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit)
 
 
-<h3><a name = "Title5"> 5. Organisation of Project </a></h3>
+<h2><a name = "Title5"> 5. Project Outputs </a></h2>
 <hr>
 
-### Team ###
- 1. Annalisa O'Sullivan - Trade Up - Client<br/>
- 2. Trent O'Sullivan - Trade Up - Client<br/>
- 3. Elena Williams - Tutor<br/>
- 4. Jie Gao - Project Lead<br/>
- 5. David Roussov - Technical Lead<br/>
- 6. Honggu Lin - Developer<br/>
- 7. Lin Peng - Developer<br/>
- 8. Hong You - Developer<br/>
- 9. Jason Luo - Developer<br/>
-
-[Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
-
-![](http://www.trade-up.com.au/wp-content/uploads/2017/08/Resized_20170816_211412.jpeg (198kB)
-)
- <p align="center" vertical-align="middle"><b> Week 3 Client Meeting </b></p>
-
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
-<p align="center" vertical-align="middle"><b> Week 10 Project Showcase </b></p>
-
-### Development Approach ###
-- Create prototype, present 
-
-### Engagement With Stakeholders ###
-- We had individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
-- We had regular meeting at Wed 7-9pm every fortnight
-
-### Team Collaboration ###
-- We will first have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions can organise organize individual meeting time with the client. Then Jie Gao will create tasks on Jira and assign tasks to us. We will assign tasks on Jira and some people will work together on some related tasks. For example, in this week Honggu and Hong both designed the algorithms and will chat with Bruce to finalise the algorithms. After they finished implementing, David and other team members will be involved in testing. Jason setup database and helped us to analysis data to reformat them to have better structure so that Honggu and David can use them.
-
-### Acting On Feedback ### 
-- Not respond to shadow team? Now we have Jie in charge of the Slack communication so whenever the shadow team have questions we will make sure that we respond to them quickly.
-- Not working as a team? As specified above, everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
-
-
-
-<h3><a name = "Title6"> 6. Project Outputs </a>
-<hr>
-
-### Project Poster ###
+## Project Poster ##
 
 ![image](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Poster_A2-1.jpg?raw=true)
   <p align="center" vertical-align = "middle">
@@ -227,7 +187,7 @@ We tried and used different tools in order to optimise our output
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/technique%20hub.jpg?raw=true)
 
-<h3><a name = "Title7"> 7. Meetings</a></h3>
+<h2><a name = "Title6"> 6. Meetings</a></h2>
 
 Meetings <br/>
 Sprint 1 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE
