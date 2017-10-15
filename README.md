@@ -38,7 +38,7 @@ https://github.com/davidRoussov/trade-up/wiki
 
 3. Human errors for each construction project can be predicted for each project site.
 
-4. A user-friendly interface for Trade-Up clients to navigate through each construction project on-site.
+4. A user-friendly interface for Trade-Up clients have been created to allow easy navigation through tracking each construction project.
 
 5. Trade-Up clients including subcontractors are able to visualise their project using the implemented calendar instead of predicting resources and dates on paper.
 
@@ -62,6 +62,43 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
 
 [JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
+
+### Organisation of Project ###
+
+### Team ###
+ 1. Annalisa O'Sullivan - Trade Up - Client<br/>
+ 2. Trent O'Sullivan - Trade Up - Client<br/>
+ 3. Elena Williams - Tutor<br/>
+ 4. Jie Gao - Project Lead<br/>
+ 5. David Roussov - Technical Lead<br/>
+ 6. Honggu Lin - Developer<br/>
+ 7. Lin Peng - Developer<br/>
+ 8. Hong You - Developer<br/>
+ 9. Jason Luo - Developer<br/>
+
+[Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
+
+![](http://www.trade-up.com.au/wp-content/uploads/2017/08/Resized_20170816_211412.jpeg (198kB)
+)
+ <p align="center" vertical-align="middle"><b> Week 3 Client Meeting </b></p>
+
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
+<p align="center" vertical-align="middle"><b> Week 10 Project Showcase </b></p>
+
+### Development Approach ###
+- Create prototype, present 
+
+### Engagement With Stakeholders ###
+- We had individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
+- We had regular meeting at Wed 7-9pm every fortnight
+
+### Team Collaboration ###
+- We will first have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions can organise organize individual meeting time with the client. Then Jie Gao will create tasks on Jira and assign tasks to us. We will assign tasks on Jira and some people will work together on some related tasks. For example, in this week Honggu and Hong both designed the algorithms and will chat with Bruce to finalise the algorithms. After they finished implementing, David and other team members will be involved in testing. Jason setup database and helped us to analysis data to reformat them to have better structure so that Honggu and David can use them.
+
+### Acting On Feedback ### 
+- Not respond to shadow team? Now we have Jie in charge of the Slack communication so whenever the shadow team have questions we will make sure that we respond to them quickly.
+- Not working as a team? As specified above, everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
+
 
 <h3><a name = "Title3"> 3. Current Project Progress </a></h3>
 <hr>
