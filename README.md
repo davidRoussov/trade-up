@@ -30,6 +30,8 @@ https://github.com/davidRoussov/trade-up/wiki
 <h3><a name = "Title1"> 1. Value Delivered to the Client </a></h3>
 <hr>
 
+*Subcontractors are referred as to Trade-Up's clients*
+
 1. Subcontractors can track project progress and make adjustments for workers to maximise productivity. 
 
 2. Subcontractors are able to forecast work completion date including contract/work completion days, and contract start and end date.
