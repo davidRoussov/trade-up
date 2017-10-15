@@ -99,6 +99,13 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 - During our 2-hour client meeting, we ask client questions and update client the progress of our project.
 
+### Professional Team Attitude ###
+- We are always in contact with our client. 
+
+- We dress professional casual during our client meeting. 
+
+- We follow requirements and keep everything in confidentially as per.
+
 ### Team Collaboration ###
 -We have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions, they can organise individual meeting time with the client. Then team members and client will create tasks on JIRA. We assign tasks on JIRA and members will work together on some related tasks. For example, Sprint 4 and the on-going Sprint 5, tasks were created by the team and the client together. Tasks were allocated to each team member, whereas each member picked the task(s) they wanted to do, and remaining unpicked tasks were allocated by team lead. 
 
