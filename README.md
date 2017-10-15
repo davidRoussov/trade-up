@@ -21,8 +21,8 @@
 
 ***
 
-**HOW TO RUN THE PROJECT(Navigate to our project)** <br/>
-https://github.com/davidRoussov/trade-up/tree/master/project
+<h3>HOW TO RUN THE PROJECT(Navigate to our project)<h3>
+https://bitbucket.org/123tradeup/tu-techlauncher
 
 ***
 
