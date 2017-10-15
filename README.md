@@ -80,11 +80,23 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 <p align="center" vertical-align="middle"><b> Week 10 Project Showcase </b></p>
 
 ### Development Approach ###
-- Create prototype, present 
+- The development approach we adapt is agile methodology. We hold weekly sunday meetings consists of Scrum. The time of our weekly Scrum meeting is from 1pm - 5pm every Sunday. 
+
+Each team member answers 3 following questions: 
+1. "What they have done?"
+2. "What were struggles and challenges encountered?"
+3. "What will they be doing next?"
+
+- When a new sprint starts, each task will be distributed among each team member from JIRA assigned by client and/or the team itself. 
+
+- Each sprint will last 2 weeks, where each member will work on the allocated task individually during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as a team. 
 
 ### Engagement With Stakeholders ###
-- We had individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
-- We had regular meeting at Wed 7-9pm every fortnight
+- We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
+
+- We have regular client meeting from 7pm - 9pm every fortnight on Wednesday.
+
+- During our 2-hour client meeting, we ask client questions and update client the progress of our project. 
 
 ### Team Collaboration ###
 - We will first have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions can organise organize individual meeting time with the client. Then Jie Gao will create tasks on Jira and assign tasks to us. We will assign tasks on Jira and some people will work together on some related tasks. For example, in this week Honggu and Hong both designed the algorithms and will chat with Bruce to finalise the algorithms. After they finished implementing, David and other team members will be involved in testing. Jason setup database and helped us to analysis data to reformat them to have better structure so that Honggu and David can use them.
