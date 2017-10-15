@@ -188,17 +188,9 @@ We tried and used different tools in order to optimise our output
 
 <h3><a name = "Title7"> 7. Meetings</a></h3>
 
-Previous Meetings <br/>
-https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE
-https://drive.google.com/drive/folders/0Bzc3lP9XuDfvNnhvX0FkclhwMnM
- 
-Weekly Scrum Meeting <br/>
-https://docs.google.com/document/d/1Qnvj02ySYB8DTBecLbMMbbaciW4iZE-4xrcdXBu_7js/edit
-https://docs.google.com/document/d/194vW0NMO9CqBcbwtawUN2jUfp3Kk7rdf9T7uNhXy224/edit
-https://docs.google.com/document/d/1XxgnambDIuf7ttNvMUO8ugMbQ_djq_frvR3zi_cvInQ/edit
- 
-Scrum Review Meeting with Clients <br/>
-https://docs.google.com/document/d/1gzdo081U5w-yaNpRfD6aa8A0RXvFbICA2XhIHx0bIqA/edit
-https://docs.google.com/document/d/1UDymCaCaHzDTkoSgJtMzw4SyGsb1hzOJLZNJQPg1fy0/edit
-https://docs.google.com/document/d/1DrQ_J5bXO5LcBVbXLw8_xx_fG8KznV9Oq_u706wd1lo/edit
-
+Meetings <br/>
+Sprint 1 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvbEF5SkhEODExZEE
+Sprint 2 - https://drive.google.com/drive/folders/0Bzc3lP9XuDfvNnhvX0FkclhwMnM
+Sprint 3 - https://docs.google.com/document/d/1Qnvj02ySYB8DTBecLbMMbbaciW4iZE-4xrcdXBu_7js/edit
+Sprint 4 - https://docs.google.com/document/d/194vW0NMO9CqBcbwtawUN2jUfp3Kk7rdf9T7uNhXy224/edit
+Sprint 5 - https://docs.google.com/document/d/1XxgnambDIuf7ttNvMUO8ugMbQ_djq_frvR3zi_cvInQ/edit
