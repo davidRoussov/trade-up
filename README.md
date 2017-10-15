@@ -200,7 +200,7 @@ We tried and used different tools in order to optimise our output
 - React for front end development
 - Mysql for database
 
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/technique%20hub.jpg?raw=true)
+![](https://github.com/davidRoussov/trade-up/blob/master/images/hub.jpg)
 
 <h2><a name = "Title6"> 6. Meetings</a></h2>
 
