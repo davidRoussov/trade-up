@@ -14,18 +14,17 @@
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
 <a href = "#Title6"><b> 6. Meetings</b></a><br/>
-
+<br>
 
 <h2>PROJECT SOURCE CODE (IN BITBUCKET)<h2>
 https://bitbucket.org/123tradeup/tu-techlauncher
-
+<br>
 
 <h2>PROJECT OVERVIEW<h2>
 https://github.com/davidRoussov/trade-up/wiki
-
+<br>
 
 <h2><a name = "Title1"> 1. Value Delivered to the Client </a></h2>
-
 
 *Subcontractors are referred as to Trade-Up's clients*
 
