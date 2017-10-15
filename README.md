@@ -48,7 +48,7 @@ The team appear to be communicating well between themselves and are committed to
 An improvement could be better demonstration of achieved outcomes at the conclusion of a sprint. This could be done at the fortnightly meetings. We encourage the group at next meeting to be ready to walk thru their outcomes as you would when delivering work to a client. 
 The group has grown over the last few weeks in their understanding of the end result goal. 
 
-<h3>Technical Artifacts</h3>
+
 
 The team have been very enthusiastic to attend meetings and communicate online. They have shown a great interest in making sure the project they deliver to us is one that will be useful to sell to our customers.
 
@@ -127,6 +127,7 @@ Acting On Feedback:
 
 [Github Wiki Page](https://github.com/davidRoussov/trade-up/wiki)
 
+<h3>Technical Artifacts</h3>
 
 <h3><a name = "Title8"> 8. Project Outputs </a></h3>
 <a href = "#content"><i> Click[Back To Content] </i></a>
