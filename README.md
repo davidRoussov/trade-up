@@ -59,8 +59,6 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 
 [JIRA Template](https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit)
 
-<a href = "#content"><i> Click[Back To Content] </i></a>
-
 <h3><a name = "Title4"> 3. Current Project Progress </a></h3>
 <hr>
 
@@ -89,7 +87,6 @@ This will involve setting up a development environment for each member of the Te
 Furthermore, we will now have to acquaint ourselves with the system architecture of a mature codebase, as well as becoming familiar with Angular and any other development practices that Trade Up uses as part of their developer and operations workflows. It is our intention that much of this will be completed within the current sprint and over the summer break, so that when we begin the next semester, we are in a prime position to be immediately productive.
 
 <h3><a name = "Title5"> 4. Effective and Appropriate Decision Making </a></h3>
-<br><a href = "#content"><i> Click[Back To Content] </i></a><br>
 <hr>
 
 [Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
@@ -97,7 +94,8 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 [Decision Making Progress](https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit)
 
 
-<h3><a name = "Title6"> 5. Organisation of Project </a></h3> <a href = "#content"><i> Click[Back To Content] </i></a>
+<h3><a name = "Title6"> 5. Organisation of Project </a></h3>
+<hr>
 
 ### Team ###
  1. Annalisa O'Sullivan - Trade Up - Client<br/>
