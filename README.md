@@ -62,6 +62,9 @@ Traceability of actions:
 
 <h3><a name = "Title4"> 4. Current Project Progress </a></h3>
 
+<h4>Sprint 5 - Preparing for the next stage of the project</h4>
+With the completion of the company and project calendars within our own prototyping environment, we have now been in the process of integrating these features with their existing codebase, to be deployed into production. At the same time, we are now ready to proceed with the next Agile "Epic" - the allocation of specific employees to projects based on the project calendar we have made. This will be the focus of our next sprint in the following semester, however the development workflow will be different going forward in that we will be working within their existing main repository (branching as necessary).
+
 <table borde r= 3>
 <tr align = "center">
 <th>Current sprint</th>
