@@ -18,7 +18,6 @@
 <a href = "#Title7"><b> 7. Appropriate Documentation </b></a><br/>
 <a href = "#Title8"><b> 8. Project Outputs </b></a><br/>
 <a href = "#Title9"><b> 9. Meetings</b></a><br/>
-<a href = "#Title10"><b> 10. Team </b></a><br/>
 
 ***
 
@@ -60,7 +59,6 @@ Traceability of actions:
 [JIRA Template](https://docs.google.com/document/d/1Yr5eWnCpYnM2At1KlS9NBB0A-_3aksTyJh9zzLXEkYs/edit)
 
 <h3><a name = "Title4"> 4. Current Project Progress </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
 
 <table borde r= 3>
 <tr align = "center">
@@ -79,17 +77,17 @@ Traceability of actions:
 
 [User Story Map](https://drive.google.com/drive/folders/0Bzc3lP9XuDfvQXRsSjZ1WGV3LUk)
 
+<a href = "#content"><i> Click[Back To Content] </i></a>
 
 <h3><a name = "Title5"> 5. Effective and appropriate decision making </a></h3>
-<br><a href = "#content"><i> Click[Back To Content] </i></a><br>
 
 [Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
 
 [Decision Making Progress](https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit)
 
+<br><a href = "#content"><i> Click[Back To Content] </i></a><br>
 
 <h3><a name = "Title6"> 6. Organisation of project </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
 
 Team Members
 - Team Lead: Jie Gao
@@ -113,16 +111,15 @@ Acting On Feedback:
 - Not respond to shadow team? Now we have Jie in charge of the Slack communication so whenever the shadow team have questions we will make sure that we respond to them quickly.
 - Not working as a team? As specified above, everyone will have their role and we make sure everyone is on the same page through communication. We physically meet up and do work together, one person finished one part of the task and passed to the next person to do his part and finish a story together.
 
+<a href = "#content"><i> Click[Back To Content] </i></a>
 
 <h3><a name = "Title7"> 7. Appropriate documentation </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
 
 [Github Wiki Page](https://github.com/davidRoussov/trade-up/wiki)
 
 <h3>Technical Artifacts</h3>
 
 <h3><a name = "Title8"> 8. Project Outputs </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
 
 ![image](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Poster_A2-1.jpg?raw=true)
   <p align="center" vertical-align = "middle"><b> Project Poster </b></p>
@@ -133,6 +130,8 @@ Acting On Feedback:
 [Bitbucket Source Code](https://bitbucket.org/123tradeup/tu-techlauncher)
 
 [Prototypes](https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM)
+
+<a href = "#content"><i> Click[Back To Content] </i></a>
 
 **Technical depth of outputs:**
 
@@ -168,12 +167,12 @@ We tried and used different tools in order to optimise our output
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/technique%20hub.jpg?raw=true)
 
+<a href = "#content"><i> Click[Back To Content] </i></a>
+
 **appropriateness of outputs:**
 - We always show our progress to our client and discuss with them for improvement
 
-
-<h3><a name = "Title9"> 9. Meetings during this period </a></h3>
-<a href = "#content"><i> Click[Back To Content] </i></a>
+<h3><a name = "Title9"> 9. Meetings</a></h3>
 
 Previous Meetings <br/>
 https://drive.google.com/drive/folders/0B-KwcSa5tCbxaDl1WV9vdGRQaHc?usp=sharing
@@ -188,14 +187,4 @@ https://docs.google.com/document/d/1pmKjQVpWhAHcBwulCoEI_FPQ3Mv_ix2p78_obDleh0M/
 Weekly Scrum meeting 27/08/2017 <br/>
 https://docs.google.com/document/d/15k6ug9GBh7l2o6xEDWjzlf-MCj_Ivpskr7rjhJbHYpo/edit#
 
-<h3><a name = "Title10"> 10. Team </a></h3>
-  <a href = "#content"><i> Click[Back To Content] </i></a><br/>
-  1. Annalisa O'Sullivan - Trade Up - Client<br/>
-  2. Trent O'Sullivan - Trade Up - Client<br/>
-  3. Elena Williams - Tutor<br/>
-  4. Jie Gao - Project Lead<br/>
-  5. David Roussov - Technical Lead<br/>
-  6. Honggu Lin - Developer<br/>
-  7. Lin Peng - Developer<br/>
-  8. Hong You - Developer<br/>
-  9. Jason Luo - Developer<br/>
+<a href = "#content"><i> Click[Back To Content] </i></a>
