@@ -71,7 +71,7 @@ Traceability of actions:
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>1st October - 29th October</b></td>
+<td><b>15th October - 29th October</b></td>
 </tr>
 </table>
 
