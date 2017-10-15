@@ -90,13 +90,13 @@ This will involve setting up a development environment for each member of the Te
 Furthermore, we will now have to acquaint ourselves with the system architecture of a mature codebase, as well as becoming familiar with Angular and any other development practices that Trade Up uses as part of their developer and operations workflows. It is our intention that much of this will be completed within the current sprint and over the summer break, so that when we begin the next semester, we are in a prime position to be immediately productive.
 
 <h3><a name = "Title5"> 5. Effective and Appropriate Decision Making </a></h3>
+<br><a href = "#content"><i> Click[Back To Content] </i></a><br>
 <hr>
 
 [Risk Management](https://docs.google.com/spreadsheets/d/1OovpTOIJ-9aUBdObCQ6EKUogwbCSB4FADGcENCZAEn0/edit#gid=775460604)
 
 [Decision Making Progress](https://docs.google.com/document/d/1s27j4EKKgcSOZXdcxydqvtI2ei2_35DOFEVF0QosD94/edit)
 
-<br><a href = "#content"><i> Click[Back To Content] </i></a><br>
 
 <h3><a name = "Title6"> 6. Organisation of Project </a></h3> <a href = "#content"><i> Click[Back To Content] </i></a>
 
@@ -134,11 +134,11 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 [Github Wiki Page](https://github.com/davidRoussov/trade-up/wiki)
 
-<h3><a name = "Title8"> 8. Project Outputs </a></h3>
+<h3><a name = "Title8"> 8. Project Outputs </a></h3> <a href = "#content"><i> Click[Back To Content] </i></a>
 <hr>
-
+## Project Poster ##
 ![image](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Poster_A2-1.jpg?raw=true)
-  <p align="center" vertical-align = "middle"><b> Project Poster </b></p>
+  <p align="center" vertical-align = "middle">
 
 [High-Level Overview of Project](https://docs.google.com/spreadsheets/d/1MBL69Njxc0PIVpFxtb0k24sSqK6RbCLsb7hAyTylB0s/edit#gid=0)
 
@@ -147,7 +147,6 @@ Furthermore, we will now have to acquaint ourselves with the system architecture
 
 [Prototypes](https://drive.google.com/drive/folders/0B-KwcSa5tCbxMFpuUUpGbnRQSGM)
 
-<a href = "#content"><i> Click[Back To Content] </i></a>
 
 **Technical Depth of Outputs:**
 
